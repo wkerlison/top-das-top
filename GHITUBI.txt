@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD H265
 http://kplay.red/live/39275939/02859274/1562105.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
-rtsp://192.168.0.102/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
+rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
 rtsp://192.168.0.103/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E HD
