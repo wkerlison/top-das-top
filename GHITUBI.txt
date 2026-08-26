@@ -2760,7 +2760,7 @@ http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2620
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1943
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ HD
-http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1942
+http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1942.m3u
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1941
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ H265" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ H265
