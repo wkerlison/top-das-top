@@ -9076,32 +9076,6 @@ http://\teve.lat:80/4199922241/awsedc1485/27507489.ts
 http://\teve.lat:80/4199922241/awsedc1485/27507487.ts
 #EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Cazé Tv • 4" tvg-logo="https://i.imgur.com/VogBd8C.png" group-title="⚽ CAZÉ TV",Cazé Tv • 4
 http://\teve.lat:80/4199922241/awsedc1485/27507486.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",PLAYBOY SD
-http://\teve.lat:80/4199922241/awsedc1485/108995.ts
-#EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",VENUS SD
-http://\teve.lat:80/4199922241/awsedc1485/108996.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",SEXY HOT SD
-http://\teve.lat:80/4199922241/awsedc1485/108997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",PLAYBOY HD
-http://\teve.lat:80/4199922241/awsedc1485/108998.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",SEXY HOT HD
-http://\teve.lat:80/4199922241/awsedc1485/108999.ts
-#EXTINF:-1 tvg-id="" tvg-name="VENUS HD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",VENUS HD
-http://\teve.lat:80/4199922241/awsedc1485/109000.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME HD" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",SEXTREME HD
-http://\teve.lat:80/4199922241/awsedc1485/109001.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS  24h." tvg-logo="https://i.imgur.com/qGsGyxB.png" group-title="➡️ INFANTIL 24 HORAS",3 PALAVRINHAS  24h.
-http://\teve.lat:80/4199922241/awsedc1485/109044.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24H" tvg-logo="https://i.imgur.com/qGsGyxB.png" group-title="➡️ INFANTIL 24 HORAS",BOB ESPONJA 24H
-http://\teve.lat:80/4199922241/awsedc1485/109065.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://i.imgur.com/VXtsi4x.png" group-title="➡️ 24 HORAS - COMÉDIA",Eu a Patroa e as Crianças
-http://\teve.lat:80/4199922241/awsedc1485/109121.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD²" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",PLAYBOY HD²
-http://\teve.lat:80/4199922241/awsedc1485/110367.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY H265²" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",PLAYBOY H265²
-http://\teve.lat:80/4199922241/awsedc1485/110368.ts
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD²" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",PLAYBOY FHD²
-http://\teve.lat:80/4199922241/awsedc1485/110369.ts
 #EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24H" tvg-logo="https://i.imgur.com/qGsGyxB.png" group-title="➡️ INFANTIL 24 HORAS",DESENHOS BIBLICOS 24H
 http://\teve.lat:80/4199922241/awsedc1485/111160.ts
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://i.imgur.com/YRo4zp8.jpeg" group-title="➡️ 24 HORAS - COMÉDIA",Um Maluco no Pedaço
@@ -9146,30 +9120,10 @@ http://\teve.lat:80/4199922241/awsedc1485/131659.ts
 http://\teve.lat:80/4199922241/awsedc1485/137669.ts
 #EXTINF:-1 tvg-id="" tvg-name="A GATA COMEU 24H" tvg-logo="https://i.imgur.com/ibKm5l8.png" group-title="➡️ CINE 24 HORAS",A GATA COMEU 24H
 http://\teve.lat:80/4199922241/awsedc1485/137670.ts
-#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="A CASA DAS BRASILEIRINHAS 24H" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",A CASA DAS BRASILEIRINHAS 24H
-http://\teve.lat:80/4199922241/awsedc1485/137680.ts
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://i.imgur.com/qGsGyxB.png" group-title="➡️ INFANTIL 24 HORAS",NARUTO 24HS
 http://\teve.lat:80/4199922241/awsedc1485/184951.ts
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN  24HS" tvg-logo="https://i.imgur.com/qGsGyxB.png" group-title="➡️ INFANTIL 24 HORAS",NARUTO SHIPPUDEN  24HS
 http://\teve.lat:80/4199922241/awsedc1485/184952.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",BRASILEIRINHAS: A CAMPEA DO ANAL
-http://\teve.lat:80/4199922241/awsedc1485/189342.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: BABANDO DE TESAO" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",BRASILEIRINHAS: BABANDO DE TESAO
-http://\teve.lat:80/4199922241/awsedc1485/189343.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: FAZENDO SACANAGEM" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",BRASILEIRINHAS: FAZENDO SACANAGEM
-http://\teve.lat:80/4199922241/awsedc1485/189344.ts
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: ASSIM VC ME MATA" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",BRASILEIRINHAS: ASSIM VC ME MATA
-http://\teve.lat:80/4199922241/awsedc1485/189345.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX ADULTO" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",XXX ADULTO
-http://\teve.lat:80/4199922241/awsedc1485/189347.ts
-#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",BLUE HUSTLER
-http://\teve.lat:80/4199922241/awsedc1485/189488.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX DORCEL TV" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",XXX DORCEL TV
-http://\teve.lat:80/4199922241/awsedc1485/189489.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX RUSNOCH" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",XXX RUSNOCH
-http://\teve.lat:80/4199922241/awsedc1485/189490.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX REDLIGHT" tvg-logo="https://i.imgur.com/o0wc6Kx.png" group-title="XXX - ADULTOS (+18)",XXX REDLIGHT
-http://\teve.lat:80/4199922241/awsedc1485/189491.ts
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://i.imgur.com/mUN48JS.png" group-title="➡️ CINE 24 HORAS",Todo Mundo Odeia o Chris
 http://\teve.lat:80/4199922241/awsedc1485/192929.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-VINGADORES" tvg-logo="https://i.imgur.com/ibKm5l8.png" group-title="➡️ CINE 24 HORAS",24H-MARVEL-VINGADORES
@@ -54958,8 +54912,6 @@ http://fbld.in:80/movie/525487/xmkBvT/256526.mp4
 http://fbld.in:80/movie/525487/xmkBvT/45789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="OS 800" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx0PP392PYCZ4x0xNryO5ry637X.jpg" group-title="GUERRA", OS 800
 http://fbld.in:80/movie/525487/xmkBvT/240247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OS ADULTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg" group-title="ROMANCE/DRAMA", OS ADULTOS
-http://fbld.in:80/movie/525487/xmkBvT/277530.mp4
 #EXTINF:-1 tvg-id="" tvg-name="OS AERONAUTAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4tPgPn0sGZEMvoJWYWnxlgTTWG.jpg" group-title="ROMANCE/DRAMA", OS AERONAUTAS
 http://fbld.in:80/movie/525487/xmkBvT/294129.mp4
 #EXTINF:-1 tvg-id="" tvg-name="OS AFRO SAMBAS O BRASIL DE BADEN E VINICIUS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNwgrnFdzPUdEBSjhOw7QIcQzfR.jpg" group-title="DOCUMENTARIO", OS AFRO SAMBAS O BRASIL DE BADEN E VINICIUS
