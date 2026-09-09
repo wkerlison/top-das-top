@@ -6,6 +6,1048 @@
 rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
 rtsp://192.168.0.103/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
+#EXTINF:-1 tvg-id="" tvg-name="2 Garotas em APUROS [TEMP 1 A 3]" tvg-logo="https://i.imgur.com/ZEjf28e.png" group-title="✔️ SERIES 24H",2 Garotas em APUROS [TEMP 1 A 3]
+http://segundafeira.site:80/159753/159753/1731464.ts
+#EXTINF:-1 tvg-id="" tvg-name="2 Garotas em APUROS [TEMP 4 A 6]" tvg-logo="https://i.imgur.com/KuRUZrp.png" group-title="✔️ SERIES 24H",2 Garotas em APUROS [TEMP 4 A 6]
+http://segundafeira.site:80/159753/159753/1731465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Bob Esponja Calça Quadrada
+http://segundafeira.site:80/159753/159753/2215513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Chapolin Colorado
+http://segundafeira.site:80/159753/159753/2215511.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Chaves
+http://segundafeira.site:80/159753/159753/2215510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Dois Homens e Meio
+http://segundafeira.site:80/159753/159753/2215512.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H iCarly Revival
+http://segundafeira.site:80/159753/159753/2215517.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Shippuden" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Naruto Shippuden
+http://segundafeira.site:80/159753/159753/2215515.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Uzumaki" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Naruto Uzumaki
+http://segundafeira.site:80/159753/159753/2215514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Os Simpsons
+http://segundafeira.site:80/159753/159753/2215509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PARA REDECORAR" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",24H PARA REDECORAR
+http://segundafeira.site:80/159753/159753/1725904.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Steven Universo" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Steven Universo
+http://segundafeira.site:80/159753/159753/2215519.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Truques da Mente" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Truques da Mente
+http://segundafeira.site:80/159753/159753/2215520.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",24H Um Maluco no Pedaço
+http://segundafeira.site:80/159753/159753/2215516.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://i.imgur.com/tSSXQtd.png" group-title="✔️ DESENHOS 24H",3 Palavrinhas
+http://segundafeira.site:80/159753/159753/1725640.ts
+#EXTINF:-1 tvg-id="" tvg-name="44 gatos" tvg-logo="https://i.imgur.com/1ORNom8.png" group-title="✔️ DESENHOS 24H",44 gatos
+http://segundafeira.site:80/159753/159753/1725641.ts
+#EXTINF:-1 tvg-id="" tvg-name="4x4 Desafio sob rodas" tvg-logo="https://i.ibb.co/bH2CQtR/24h.png" group-title="✔️ CANAIS 24H",4x4 Desafio sob rodas
+http://segundafeira.site:80/159753/159753/1415992.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 dias para casar" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 dias para casar
+http://segundafeira.site:80/159753/159753/1415995.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 dias para casar antes dos 90 dias" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 dias para casar antes dos 90 dias
+http://segundafeira.site:80/159753/159753/1725820.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 Dias Para Casar Seguindo Jorge e Anfisa" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 Dias Para Casar Seguindo Jorge e Anfisa
+http://segundafeira.site:80/159753/159753/1415996.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 dias para casar: Ultima chance" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 dias para casar: Ultima chance
+http://segundafeira.site:80/159753/159753/1725822.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 Dias para ficar Milionario" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 Dias para ficar Milionario
+http://segundafeira.site:80/159753/159753/1416005.ts
+#EXTINF:-1 tvg-id="" tvg-name="(Des)Encanto" tvg-logo="https://i.imgur.com/oNVNpCb.png" group-title="✔️ CANAIS 24H",(Des)Encanto
+http://segundafeira.site:80/159753/159753/1772748.ts
+#EXTINF:-1 tvg-id="" tvg-name="007" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",007
+http://segundafeira.site:80/159753/159753/1727272.ts
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatas" tvg-logo="https://i.imgur.com/WVPxvi6.png" group-title="✔️ DESENHOS 24H",101 Dalmatas
+http://segundafeira.site:80/159753/159753/1727238.ts
+#EXTINF:-1 tvg-id="" tvg-name="190 emergencia policial" tvg-logo="https://i.imgur.com/8RIJCtD.png" group-title="✔️ CANAIS 24H",190 emergencia policial
+http://segundafeira.site:80/159753/159753/1416006.ts
+#EXTINF:-1 tvg-id="" tvg-name="90 dias pra casar Reino unido" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",90 dias pra casar Reino unido
+http://segundafeira.site:80/159753/159753/1725821.ts
+#EXTINF:-1 tvg-id="" tvg-name="A AVENTUREIRA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",A AVENTUREIRA
+http://segundafeira.site:80/159753/159753/2215505.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha dos piores Cozinheiros" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",A Batalha dos piores Cozinheiros
+http://segundafeira.site:80/159753/159753/1416072.ts
+#EXTINF:-1 tvg-id="" tvg-name="A casa da Raven" tvg-logo="https://i.imgur.com/URtfNJy.png" group-title="✔️ SERIES 24H",A casa da Raven
+http://segundafeira.site:80/159753/159753/1725643.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Divertida de MICKEY MOUSE" tvg-logo="https://i.imgur.com/JVXJqVp.png" group-title="✔️ DESENHOS 24H",A Casa Divertida de MICKEY MOUSE
+http://segundafeira.site:80/159753/159753/1727717.ts
+#EXTINF:-1 tvg-id="" tvg-name="A casa magica de Gabby" tvg-logo="https://i.imgur.com/aeRcU4a.png" group-title="✔️ DESENHOS 24H",A casa magica de Gabby
+http://segundafeira.site:80/159753/159753/1727788.ts
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA" tvg-logo="https://i.imgur.com/6dCCWnu.png" group-title="✔️ SERIES 24H",A GRANDE FAMILIA
+http://segundafeira.site:80/159753/159753/2200997.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Igreja oculta" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",A Igreja oculta
+http://segundafeira.site:80/159753/159753/1725823.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Magia das Sereias" tvg-logo="https://i.imgur.com/qjBQdnG.png" group-title="✔️ DESENHOS 24H",A Magia das Sereias
+http://segundafeira.site:80/159753/159753/1727293.ts
+#EXTINF:-1 tvg-id="" tvg-name="A maldicao do TRIANGULO DAS BERMUDAS" tvg-logo="https://i.imgur.com/bJbeWr9.png" group-title="✔️ CANAIS 24H",A maldicao do TRIANGULO DAS BERMUDAS
+http://segundafeira.site:80/159753/159753/1731461.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Oak Island" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",A Maldição de Oak Island
+http://segundafeira.site:80/159753/159753/1725905.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Mansao Foster para Amigos Imaginarios" tvg-logo="https://i.imgur.com/HHNhDaS.png" group-title="✔️ DESENHOS 24H",A Mansao Foster para Amigos Imaginarios
+http://segundafeira.site:80/159753/159753/1727239.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Escola do Imperador" tvg-logo="https://i.imgur.com/K1Quhxr.png" group-title="✔️ DESENHOS 24H",A Nova Escola do Imperador
+http://segundafeira.site:80/159753/159753/1727292.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia" tvg-logo="https://i.imgur.com/q2NdFqd.png" group-title="✔️ DESENHOS 24H",A Pequena Sereia
+http://segundafeira.site:80/159753/159753/1725644.ts
+#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",A USURPADORA
+http://segundafeira.site:80/159753/159753/2212761.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango" tvg-logo="https://i.imgur.com/j4YWx6S.png" group-title="✔️ DESENHOS 24H",A Vaca e o Frango
+http://segundafeira.site:80/159753/159753/1727240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Acumuladores de Carros" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Acumuladores de Carros
+http://segundafeira.site:80/159753/159753/1725824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Area Restrita" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Aeroporto Area Restrita
+http://segundafeira.site:80/159753/159753/2215533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Miami" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Aeroporto Miami
+http://segundafeira.site:80/159753/159753/1416153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alasca ao extremo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Alasca ao extremo
+http://segundafeira.site:80/159753/159753/1416011.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALIEN - SAGA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",ALIEN - SAGA
+http://segundafeira.site:80/159753/159753/1727751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alienígenas do Passado" tvg-logo="https://i.imgur.com/nqEt68M.png" group-title="✔️ CANAIS 24H",Alienígenas do Passado
+http://segundafeira.site:80/159753/159753/1731466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Almas perdidas" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Almas perdidas
+http://segundafeira.site:80/159753/159753/1416083.ts
+#EXTINF:-1 tvg-id="" tvg-name="American Dad #1" tvg-logo="https://i.imgur.com/DesuUgt.png" group-title="✔️ DESENHOS 24H",American Dad #1
+http://segundafeira.site:80/159753/159753/1746650.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN DAD #2" tvg-logo="https://i.imgur.com/pHt9yAG.png" group-title="✔️ DESENHOS 24H",AMERICAN DAD #2
+http://segundafeira.site:80/159753/159753/1746651.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN DAD #3" tvg-logo="https://i.imgur.com/YnHKNUf.png" group-title="✔️ DESENHOS 24H",AMERICAN DAD #3
+http://segundafeira.site:80/159753/159753/1746652.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN DAD #4" tvg-logo="https://i.imgur.com/yrsLG0m.png" group-title="✔️ DESENHOS 24H",AMERICAN DAD #4
+http://segundafeira.site:80/159753/159753/1746653.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR A VIDA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",AMOR A VIDA
+http://segundafeira.site:80/159753/159753/2212782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amor ATRAS das Grades" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Amor ATRAS das Grades
+http://segundafeira.site:80/159753/159753/1725830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amor FORA das Grades" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Amor FORA das Grades
+http://segundafeira.site:80/159753/159753/1725829.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR, MORTE & ROBÔS" tvg-logo="https://i.imgur.com/nSoajC5.png" group-title="✔️ SERIES 24H",AMOR, MORTE & ROBÔS
+http://segundafeira.site:80/159753/159753/1735406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANDY E SEU ESQUILO" tvg-logo="https://i.imgur.com/6izeCJ4.png" group-title="✔️ DESENHOS 24H",ANDY E SEU ESQUILO
+http://segundafeira.site:80/159753/159753/1727769.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANDY PANDA" tvg-logo="https://i.imgur.com/Fk16CZZ.png" group-title="✔️ DESENHOS 24H",ANDY PANDA
+http://segundafeira.site:80/159753/159753/2165878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds" tvg-logo="https://i.imgur.com/8GHzHPB.png" group-title="✔️ DESENHOS 24H",Angry Birds
+http://segundafeira.site:80/159753/159753/1727789.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="https://i.imgur.com/O5OCEUg.png" group-title="✔️ DESENHOS 24H",ANIMANIACS
+http://segundafeira.site:80/159753/159753/2165886.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arnold Schwarzenegger" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Arnold Schwarzenegger
+http://segundafeira.site:80/159753/159753/2132395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X" tvg-logo="https://i.imgur.com/yqjnRHX.png" group-title="✔️ SERIES 24H",Arquivo X
+http://segundafeira.site:80/159753/159753/1759459.ts
+#EXTINF:-1 tvg-id="" tvg-name="As aventuras de Jackie Chan" tvg-logo="https://i.imgur.com/pdRk5if.png" group-title="✔️ DESENHOS 24H",As aventuras de Jackie Chan
+http://segundafeira.site:80/159753/159753/1727286.ts
+#EXTINF:-1 tvg-id="" tvg-name="As aventuras de Tintin" tvg-logo="https://i.imgur.com/ngowbjO.png" group-title="✔️ DESENHOS 24H",As aventuras de Tintin
+http://segundafeira.site:80/159753/159753/1727242.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Mega-marcas que mudaram o Mundo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",As Mega-marcas que mudaram o Mundo
+http://segundafeira.site:80/159753/159753/1725828.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas SuperPoderosas" tvg-logo="https://i.imgur.com/nH62nsm.png" group-title="✔️ DESENHOS 24H",As Meninas SuperPoderosas
+http://segundafeira.site:80/159753/159753/1727768.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Piores Prisoes do Mundo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",As Piores Prisoes do Mundo
+http://segundafeira.site:80/159753/159753/1416154.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Trigemeas" tvg-logo="https://i.imgur.com/zJQPbPk.png" group-title="✔️ DESENHOS 24H",As Trigemeas
+http://segundafeira.site:80/159753/159753/1727773.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Visões da Raven" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",As Visões da Raven
+http://segundafeira.site:80/159753/159753/2215534.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTROBOY" tvg-logo="https://i.imgur.com/9mjzLl4.png" group-title="✔️ DESENHOS 24H",ASTROBOY
+http://segundafeira.site:80/159753/159753/1727767.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATTACK ON TITAN" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",ATTACK ON TITAN
+http://segundafeira.site:80/159753/159753/2212742.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",AVENIDA BRASIL
+http://segundafeira.site:80/159753/159753/2210050.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARBIE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",BARBIE
+http://segundafeira.site:80/159753/159753/2211115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bem vindo á Familia Plath" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Bem vindo á Familia Plath
+http://segundafeira.site:80/159753/159753/1416088.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://i.imgur.com/VglJnhF.png" group-title="✔️ DESENHOS 24H",BEN 10
+http://segundafeira.site:80/159753/159753/1727763.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://i.imgur.com/7oMFuVn.png" group-title="✔️ DESENHOS 24H",BEN 10
+http://segundafeira.site:80/159753/159753/1727765.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 Força Alienigena" tvg-logo="https://i.imgur.com/SohDZBr.png" group-title="✔️ DESENHOS 24H",BEN 10 Força Alienigena
+http://segundafeira.site:80/159753/159753/1727764.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEYBLADE" tvg-logo="https://i.imgur.com/HLp6Iw1.png" group-title="✔️ ANIMES 24H",BEYBLADE
+http://segundafeira.site:80/159753/159753/1754625.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeyBlade Burst" tvg-logo="https://i.imgur.com/cBRBBZD.png" group-title="✔️ ANIMES 24H",BeyBlade Burst
+http://segundafeira.site:80/159753/159753/1731467.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 1 e 2]" tvg-logo="https://i.imgur.com/sz1ROQA.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 1 e 2]
+http://segundafeira.site:80/159753/159753/1727879.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 11 e 12]" tvg-logo="https://i.imgur.com/cwrqIJ1.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 11 e 12]
+http://segundafeira.site:80/159753/159753/1727884.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 3 e 4]" tvg-logo="https://i.imgur.com/iGb04Oa.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 3 e 4]
+http://segundafeira.site:80/159753/159753/1727880.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 5 e 6]" tvg-logo="https://i.imgur.com/tl6RhbI.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 5 e 6]
+http://segundafeira.site:80/159753/159753/1727881.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 7 e 8]" tvg-logo="https://i.imgur.com/TJ0ZQWL.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 7 e 8]
+http://segundafeira.site:80/159753/159753/1727882.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG A TEORIA [TEMP 9 e 10]" tvg-logo="https://i.imgur.com/F2mobZd.png" group-title="✔️ SERIES 24H",BIG BANG A TEORIA [TEMP 9 e 10]
+http://segundafeira.site:80/159753/159753/1727883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Hero" tvg-logo="https://i.imgur.com/ueTbF0m.png" group-title="✔️ DESENHOS 24H",Big Hero
+http://segundafeira.site:80/159753/159753/1727762.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLACK MIRROR" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3d/Black_Mirror_Logo.png/revision/latest?cb=20230107005021" group-title="✔️ SERIES 24H",BLACK MIRROR
+http://segundafeira.site:80/159753/159753/1735168.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLIPPI Animação" tvg-logo="https://imgur.com/PYe2Pda.png" group-title="✔️ DESENHOS 24H",BLIPPI Animação
+http://segundafeira.site:80/159753/159753/1727761.ts
+#EXTINF:-1 tvg-id="" tvg-name="BLUEY" tvg-logo="https://i.imgur.com/udtC8xj.png" group-title="✔️ DESENHOS 24H",BLUEY
+http://segundafeira.site:80/159753/159753/2162466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="https://i.imgur.com/iNGkTcj.png" group-title="✔️ DESENHOS 24H",Bob esponja
+http://segundafeira.site:80/159753/159753/1727269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob esponja #2" tvg-logo="https://i.imgur.com/iNGkTcj.png" group-title="✔️ DESENHOS 24H",Bob esponja #2
+http://segundafeira.site:80/159753/159753/2127147.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOJACK HORSEMAN" tvg-logo="https://i.imgur.com/5ADZmi7.png" group-title="✔️ DESENHOS 24H",BOJACK HORSEMAN
+http://segundafeira.site:80/159753/159753/2164852.ts
+#EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",BoJack Horseman
+http://segundafeira.site:80/159753/159753/2215528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",Boku no Hero Academia
+http://segundafeira.site:80/159753/159753/2215526.ts
+#EXTINF:-1 tvg-id="" tvg-name="BONES #1" tvg-logo="https://i.imgur.com/2qWmgUL.png" group-title="✔️ SERIES 24H",BONES #1
+http://segundafeira.site:80/159753/159753/1731468.ts
+#EXTINF:-1 tvg-id="" tvg-name="BONES #2" tvg-logo="https://i.imgur.com/uHnYEyB.png" group-title="✔️ SERIES 24H",BONES #2
+http://segundafeira.site:80/159753/159753/1731469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bonitos Cubinhos" tvg-logo="https://imgur.com/deeqsT3.png" group-title="✔️ DESENHOS 24H",Bonitos Cubinhos
+http://segundafeira.site:80/159753/159753/1727760.ts
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD [TEMP 1 - 3]" tvg-logo="https://i.imgur.com/jbyPI8Q.png" group-title="✔️ SERIES 24H",BREAKING BAD [TEMP 1 - 3]
+http://segundafeira.site:80/159753/159753/1735827.ts
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD [TEMP 4 - 5]" tvg-logo="https://i.imgur.com/qGlu7I4.png" group-title="✔️ SERIES 24H",BREAKING BAD [TEMP 4 - 5]
+http://segundafeira.site:80/159753/159753/1735828.ts
+#EXTINF:-1 tvg-id="" tvg-name="BROOKLYN 99 #1" tvg-logo="https://i.imgur.com/hkA5tBl.png" group-title="✔️ SERIES 24H",BROOKLYN 99 #1
+http://segundafeira.site:80/159753/159753/1731470.ts
+#EXTINF:-1 tvg-id="" tvg-name="BROOKLYN 99 #2" tvg-logo="https://i.imgur.com/UMLOeiw.png" group-title="✔️ SERIES 24H",BROOKLYN 99 #2
+http://segundafeira.site:80/159753/159753/1731471.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRUCE WILLIS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",BRUCE WILLIS
+http://segundafeira.site:80/159753/159753/1731479.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAMINHO DAS INDIAS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",CAMINHO DAS INDIAS
+http://segundafeira.site:80/159753/159753/2210966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cante com BUBU" tvg-logo="https://i.imgur.com/EwyFXbA.png" group-title="✔️ DESENHOS 24H",Cante com BUBU
+http://segundafeira.site:80/159753/159753/1727774.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carros tunados" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Carros tunados
+http://segundafeira.site:80/159753/159753/1725831.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARROSSEL" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",CARROSSEL
+http://segundafeira.site:80/159753/159753/2210955.ts
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO DRAGAO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ SERIES 24H",CASA DO DRAGAO
+http://segundafeira.site:80/159753/159753/2211122.ts
+#EXTINF:-1 tvg-id="" tvg-name="CASTELO RA TI BUM" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",CASTELO RA TI BUM
+http://segundafeira.site:80/159753/159753/2215499.ts
+#EXTINF:-1 tvg-id="" tvg-name="CASTLE" tvg-logo="https://i.imgur.com/eizEFTo.png" group-title="✔️ SERIES 24H",CASTLE
+http://segundafeira.site:80/159753/159753/1732120.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO: Alma de Ouro" tvg-logo="https://i.imgur.com/r5Ob1pV.png" group-title="✔️ ANIMES 24H",CAVALEIROS DO ZODIACO: Alma de Ouro
+http://segundafeira.site:80/159753/159753/1759192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://i.imgur.com/O9n6RVE.png" group-title="✔️ DESENHOS 24H",Caverna do Dragão
+http://segundafeira.site:80/159753/159753/1727268.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELSO RUSSOMANNO - PATRULHA DO CONSUMIDOR #1" tvg-logo="https://i.imgur.com/j1hqm7X.png" group-title="✔️ CANAIS 24H",CELSO RUSSOMANNO - PATRULHA DO CONSUMIDOR #1
+http://segundafeira.site:80/159753/159753/1730128.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELSO RUSSOMANNO - PATRULHA DO CONSUMIDOR #2" tvg-logo="https://www.celsorussomanno.com.br/wp-content/uploads/2018/06/celso-recorte.png" group-title="✔️ CANAIS 24H",CELSO RUSSOMANNO - PATRULHA DO CONSUMIDOR #2
+http://segundafeira.site:80/159753/159753/1730245.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",CHAPOLIN COLORADO
+http://segundafeira.site:80/159753/159753/2215497.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://i.imgur.com/NymMvOn.png" group-title="✔️ CANAIS 24H",CHAVES
+http://segundafeira.site:80/159753/159753/1725807.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES #2" tvg-logo="https://i.imgur.com/JBejvvW.png" group-title="✔️ CANAIS 24H",CHAVES #2
+http://segundafeira.site:80/159753/159753/1740830.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES #3" tvg-logo="https://i.imgur.com/8m0NdE3.png" group-title="✔️ CANAIS 24H",CHAVES #3
+http://segundafeira.site:80/159753/159753/1740831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cheiroso e sujinho" tvg-logo="https://i.imgur.com/dEDjmyD.jpeg" group-title="✔️ DESENHOS 24H",Cheiroso e sujinho
+http://segundafeira.site:80/159753/159753/1757442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",CHIQUITITAS
+http://segundafeira.site:80/159753/159753/2210952.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",CHOCOLATE COM PIMENTA
+http://segundafeira.site:80/159753/159753/2210051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine Infantil
+http://segundafeira.site:80/159753/159753/1727225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Adam Sandler" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Adam Sandler
+http://segundafeira.site:80/159753/159753/2192201.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Apocalipse" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Apocalipse
+http://segundafeira.site:80/159753/159753/2192202.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Arnold Schwarzenegger" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Arnold Schwarzenegger
+http://segundafeira.site:80/159753/159753/2192203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Brad Pitt" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Brad Pitt
+http://segundafeira.site:80/159753/159753/2192204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Denzel Washington" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Denzel Washington
+http://segundafeira.site:80/159753/159753/2192205.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Dwayne Johnson" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Dwayne Johnson
+http://segundafeira.site:80/159753/159753/2192206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Especial de Natal" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Especial de Natal
+http://segundafeira.site:80/159753/159753/2192207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Os Trapalhões" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Os Trapalhões
+http://segundafeira.site:80/159753/159753/2192208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Quentin Tarantino" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Quentin Tarantino
+http://segundafeira.site:80/159753/159753/2192209.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Rambo" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Rambo
+http://segundafeira.site:80/159753/159753/2192210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Stallone" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Stallone
+http://segundafeira.site:80/159753/159753/2192211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Will Smith" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Cine: Will Smith
+http://segundafeira.site:80/159753/159753/2192212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clube do Medo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Clube do Medo
+http://segundafeira.site:80/159753/159753/1725907.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #1" tvg-logo="https://i.imgur.com/tAYDMyi.png" group-title="✔️ DESENHOS 24H",Cocomelon #1
+http://segundafeira.site:80/159753/159753/1727696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #2" tvg-logo="https://i.imgur.com/ilr7kEE.png" group-title="✔️ DESENHOS 24H",Cocomelon #2
+http://segundafeira.site:80/159753/159753/1727697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #3" tvg-logo="https://i.imgur.com/p4vySUS.png" group-title="✔️ DESENHOS 24H",Cocomelon #3
+http://segundafeira.site:80/159753/159753/1727698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #4" tvg-logo="https://i.imgur.com/tpaW6Ns.png" group-title="✔️ DESENHOS 24H",Cocomelon #4
+http://segundafeira.site:80/159753/159753/1727699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #5" tvg-logo="https://i.imgur.com/fBDq85v.png" group-title="✔️ DESENHOS 24H",Cocomelon #5
+http://segundafeira.site:80/159753/159753/1727700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocomelon #6" tvg-logo="https://i.imgur.com/VtmWO3T.png" group-title="✔️ DESENHOS 24H",Cocomelon #6
+http://segundafeira.site:80/159753/159753/1727701.ts
+#EXTINF:-1 tvg-id="" tvg-name="COCORICO" tvg-logo="https://i.imgur.com/zB0Scav.png" group-title="✔️ DESENHOS 24H",COCORICO
+http://segundafeira.site:80/159753/159753/2165890.ts
+#EXTINF:-1 tvg-id="" tvg-name="como funciona o universo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",como funciona o universo
+http://segundafeira.site:80/159753/159753/1415757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Contos assustadores com MARSHA" tvg-logo="https://i.imgur.com/teZmg42.png" group-title="✔️ DESENHOS 24H",Contos assustadores com MARSHA
+http://segundafeira.site:80/159753/159753/1727775.ts
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM O CAO COVARDE" tvg-logo="https://i.imgur.com/qFtOs36.png" group-title="✔️ DESENHOS 24H",CORAGEM O CAO COVARDE
+http://segundafeira.site:80/159753/159753/2165872.ts
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="https://i.imgur.com/sadMYqF.png" group-title="✔️ DESENHOS 24H",CORRIDA MALUCA
+http://segundafeira.site:80/159753/159753/2165871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Corridas Proibidas EUA" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Corridas Proibidas EUA
+http://segundafeira.site:80/159753/159753/1416156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cozinheiro #2" tvg-logo="https://i.imgur.com/I81OVkp.png" group-title="✔️ CANAIS 24H",Cozinheiro #2
+http://segundafeira.site:80/159753/159753/1725910.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cozinheiros" tvg-logo="https://i.imgur.com/I81OVkp.png" group-title="✔️ CANAIS 24H",Cozinheiros
+http://segundafeira.site:80/159753/159753/1725909.ts
+#EXTINF:-1 tvg-id="" tvg-name="Criaturinhas" tvg-logo="https://i.imgur.com/S3JGTMt.png" group-title="✔️ DESENHOS 24H",Criaturinhas
+http://segundafeira.site:80/159753/159753/1727776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimes que Viralizaram" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Crimes que Viralizaram
+http://segundafeira.site:80/159753/159753/1416158.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSI - INVESTIGAÇÃO CRIMINAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/CSI_Logo.png" group-title="✔️ SERIES 24H",CSI - INVESTIGAÇÃO CRIMINAL
+http://segundafeira.site:80/159753/159753/1732121.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAN DA DAN" tvg-logo="https://i.postimg.cc/4xZBL42C/images-removebg-preview.png" group-title="✔️ ANIMES 24H",DAN DA DAN
+http://segundafeira.site:80/159753/159753/2209914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://i.imgur.com/zzDjUFK.png" group-title="✔️ DESENHOS 24H",Daniel Tigre
+http://segundafeira.site:80/159753/159753/1727790.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE FERIAS COM O EX BRASIL" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",DE FERIAS COM O EX BRASIL
+http://segundafeira.site:80/159753/159753/2212459.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEATH NOTE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",DEATH NOTE
+http://segundafeira.site:80/159753/159753/2212745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Demon Slayer" tvg-logo="https://i.postimg.cc/dQGfJrjR/png-transparent-demon-slayer-anime-thumbnail-removebg-preview.png" group-title="✔️ ANIMES 24H",Demon Slayer
+http://segundafeira.site:80/159753/159753/2210004.ts
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="https://i.imgur.com/5ByBEZS.jpeg" group-title="✔️ DESENHOS 24H",DESENHOS BIBLICOS
+http://segundafeira.site:80/159753/159753/1727791.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="https://i.imgur.com/ZlWK8Eh.png" group-title="✔️ DESENHOS 24H",Desenhos Biblicos
+http://segundafeira.site:80/159753/159753/1725645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Destiladores" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Destiladores
+http://segundafeira.site:80/159753/159753/1416009.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEZ MANDAMENTOS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",DEZ MANDAMENTOS
+http://segundafeira.site:80/159753/159753/2210935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://i.imgur.com/FcVmKSt.png" group-title="✔️ ANIMES 24H",Digimon
+http://segundafeira.site:80/159753/159753/1759271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",Digimon Adventure
+http://segundafeira.site:80/159753/159753/2215524.ts
+#EXTINF:-1 tvg-id="" tvg-name="DINO RANCH" tvg-logo="https://i.imgur.com/DjXJu1O.png" group-title="✔️ DESENHOS 24H",DINO RANCH
+http://segundafeira.site:80/159753/159753/1727792.ts
+#EXTINF:-1 tvg-id="" tvg-name="DINOSSAURO REI" tvg-logo="https://i.imgur.com/Zgq0RXZ.png" group-title="✔️ DESENHOS 24H",DINOSSAURO REI
+http://segundafeira.site:80/159753/159753/1727777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr ARIEL" tvg-logo="https://i.imgur.com/Ikjkwg8.png" group-title="✔️ DESENHOS 24H",Disney Jr ARIEL
+http://segundafeira.site:80/159753/159753/1727707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e meio [TEMP 1 e 2]" tvg-logo="https://i.imgur.com/Iz5H74c.png" group-title="✔️ SERIES 24H",Dois Homens e meio [TEMP 1 e 2]
+http://segundafeira.site:80/159753/159753/1727873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois homens e meio [TEMP 11 e 12]" tvg-logo="https://i.imgur.com/Mq3qgPr.png" group-title="✔️ SERIES 24H",Dois homens e meio [TEMP 11 e 12]
+http://segundafeira.site:80/159753/159753/1727878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e meio [TEMP 3 e 4]" tvg-logo="https://i.imgur.com/xL3kQrd.png" group-title="✔️ SERIES 24H",Dois Homens e meio [TEMP 3 e 4]
+http://segundafeira.site:80/159753/159753/1727874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e meio [TEMP 5 e 6]" tvg-logo="https://i.imgur.com/LIb2OIa.png" group-title="✔️ SERIES 24H",Dois Homens e meio [TEMP 5 e 6]
+http://segundafeira.site:80/159753/159753/1727875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e meio [TEMP 7 e 8]" tvg-logo="https://i.imgur.com/ARgsUaw.png" group-title="✔️ SERIES 24H",Dois Homens e meio [TEMP 7 e 8]
+http://segundafeira.site:80/159753/159753/1727876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e meio [TEMP 9 e 10]" tvg-logo="https://i.imgur.com/IyVlVxK.png" group-title="✔️ SERIES 24H",Dois Homens e meio [TEMP 9 e 10]
+http://segundafeira.site:80/159753/159753/1727877.ts
+#EXTINF:-1 tvg-id="" tvg-name="DORA" tvg-logo="https://imgur.com/QciL2j4.png" group-title="✔️ DESENHOS 24H",DORA
+http://segundafeira.site:80/159753/159753/1727757.ts
+#EXTINF:-1 tvg-id="" tvg-name="DORA A AVENTUREIRA" tvg-logo="https://i.imgur.com/TfzbjeB.png" group-title="✔️ DESENHOS 24H",DORA A AVENTUREIRA
+http://segundafeira.site:80/159753/159753/1727771.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOUG" tvg-logo="https://i.imgur.com/7xlXbba.png" group-title="✔️ DESENHOS 24H",DOUG
+http://segundafeira.site:80/159753/159753/2165888.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOUG - O ROBO CURIOSO" tvg-logo="https://i.imgur.com/N5HuKYR.png" group-title="✔️ DESENHOS 24H",DOUG - O ROBO CURIOSO
+http://segundafeira.site:80/159753/159753/1727793.ts
+#EXTINF:-1 tvg-id="" tvg-name="DPA - Detetives do Predio Azul" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",DPA - Detetives do Predio Azul
+http://segundafeira.site:80/159753/159753/2215531.ts
+#EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="https://i.imgur.com/U7NH854.png" group-title="✔️ SERIES 24H",DR HOUSE
+http://segundafeira.site:80/159753/159753/1730257.ts
+#EXTINF:-1 tvg-id="" tvg-name="DR HOUSE #2" tvg-logo="https://i.imgur.com/JP6r8tC.png" group-title="✔️ SERIES 24H",DR HOUSE #2
+http://segundafeira.site:80/159753/159753/1730258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dra. Emma - Uma Questão de Pele" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Dra. Emma - Uma Questão de Pele
+http://segundafeira.site:80/159753/159753/1415766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dra. Sandra Lee - A Rainha dos Cravos" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Dra. Sandra Lee - A Rainha dos Cravos
+http://segundafeira.site:80/159753/159753/1415767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragoes: Equipe de resgate" tvg-logo="https://i.imgur.com/XldSDqp.png" group-title="✔️ DESENHOS 24H",Dragoes: Equipe de resgate
+http://segundafeira.site:80/159753/159753/1727756.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-dragon-ball-gt-logo-transparent-background-701751694706704ikt94osa7d.png" group-title="✔️ ANIMES 24H",DRAGON BALL GT
+http://segundafeira.site:80/159753/159753/2128242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball SUPER" tvg-logo="https://i.imgur.com/RQDMU6R.png" group-title="✔️ ANIMES 24H",Dragon ball SUPER
+http://segundafeira.site:80/159753/159753/1727231.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://i.imgur.com/bJcHGJA.png" group-title="✔️ ANIMES 24H",DRAGON BALL Z
+http://segundafeira.site:80/159753/159753/1727991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",Dragon Ball Z #2
+http://segundafeira.site:80/159753/159753/2215523.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z - KAI" tvg-logo="https://i.imgur.com/4U2cYPc.png" group-title="✔️ ANIMES 24H",DRAGON BALL Z - KAI
+http://segundafeira.site:80/159753/159753/1727990.ts
+#EXTINF:-1 tvg-id="" tvg-name="DragonBall" tvg-logo="https://i.imgur.com/wRvUEej.png" group-title="✔️ ANIMES 24H",DragonBall
+http://segundafeira.site:80/159753/159753/2132377.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMzzz" tvg-logo="https://i.imgur.com/E7K9RL0.png" group-title="✔️ DESENHOS 24H",DREAMzzz
+http://segundafeira.site:80/159753/159753/1727706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Drinques Pelo Mundo" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Drinques Pelo Mundo
+http://segundafeira.site:80/159753/159753/1725906.ts
+#EXTINF:-1 tvg-id="" tvg-name="DU DUDU E EDU" tvg-logo="https://i.imgur.com/5kMG58k.png" group-title="✔️ DESENHOS 24H",DU DUDU E EDU
+http://segundafeira.site:80/159753/159753/1727271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ducktales" tvg-logo="https://imgur.com/8RypQ1q.png" group-title="✔️ DESENHOS 24H",Ducktales
+http://segundafeira.site:80/159753/159753/1727755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei arnold" tvg-logo="https://imgur.com/rjaXn5p.png" group-title="✔️ DESENHOS 24H",Ei arnold
+http://segundafeira.site:80/159753/159753/1727754.ts
+#EXTINF:-1 tvg-id="" tvg-name="ERA DO GELO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",ERA DO GELO
+http://segundafeira.site:80/159753/159753/2214532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrilha Parafuso" tvg-logo="https://imgur.com/74bWGB8.png" group-title="✔️ DESENHOS 24H",Esquadrilha Parafuso
+http://segundafeira.site:80/159753/159753/1727752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu e Mickey" tvg-logo="https://i.imgur.com/K6Hn6YQ.png" group-title="✔️ DESENHOS 24H",Eu e Mickey
+http://segundafeira.site:80/159753/159753/1727702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a patroa e as Criancas [Temp 1]" tvg-logo="https://i.imgur.com/vVdMM9c.png" group-title="✔️ SERIES 24H",Eu, a patroa e as Criancas [Temp 1]
+http://segundafeira.site:80/159753/159753/1725636.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a patroa e as Criancas [TEMP 2]" tvg-logo="https://i.imgur.com/vVdMM9c.png" group-title="✔️ SERIES 24H",Eu, a patroa e as Criancas [TEMP 2]
+http://segundafeira.site:80/159753/159753/1725637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a patroa e as Criancas [Temp 4]" tvg-logo="https://i.imgur.com/vVdMM9c.png" group-title="✔️ SERIES 24H",Eu, a patroa e as Criancas [Temp 4]
+http://segundafeira.site:80/159753/159753/1725639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a patroa e as Crianças [Temp 3]" tvg-logo="https://i.imgur.com/vVdMM9c.png" group-title="✔️ SERIES 24H",Eu, a patroa e as Crianças [Temp 3]
+http://segundafeira.site:80/159753/159753/1725638.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a patroa e as Crianças [TEMP 5]" tvg-logo="https://i.imgur.com/vVdMM9c.png" group-title="✔️ SERIES 24H",Eu, a patroa e as Crianças [TEMP 5]
+http://segundafeira.site:80/159753/159753/1725635.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUREKA!" tvg-logo="https://i.imgur.com/qrxQyHw.png" group-title="✔️ DESENHOS 24H",EUREKA!
+http://segundafeira.site:80/159753/159753/1727708.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO #1" tvg-logo="https://i.imgur.com/W4Ipbts.png" group-title="✔️ CANAIS 24H",FAMILIA DINOSSAURO #1
+http://segundafeira.site:80/159753/159753/1728004.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO #2" tvg-logo="https://i.imgur.com/gvjZJbV.png" group-title="✔️ CANAIS 24H",FAMILIA DINOSSAURO #2
+http://segundafeira.site:80/159753/159753/1728005.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO #3" tvg-logo="https://i.imgur.com/qisNDFc.png" group-title="✔️ CANAIS 24H",FAMILIA DINOSSAURO #3
+http://segundafeira.site:80/159753/159753/1728006.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOSSAURO #4" tvg-logo="https://i.imgur.com/cBJdlDy.png" group-title="✔️ CANAIS 24H",FAMILIA DINOSSAURO #4
+http://segundafeira.site:80/159753/159753/1728007.ts
+#EXTINF:-1 tvg-id="" tvg-name="Familia Dinoussauros" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Familia Dinoussauros
+http://segundafeira.site:80/159753/159753/2215532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Febre do Ouro" tvg-logo="https://i.imgur.com/d7x851A.png" group-title="✔️ CANAIS 24H",Febre do Ouro
+http://segundafeira.site:80/159753/159753/1416016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Febre do ouro  Familia Hoffman" tvg-logo="https://i.imgur.com/d7x851A.png" group-title="✔️ CANAIS 24H",Febre do ouro  Familia Hoffman
+http://segundafeira.site:80/159753/159753/1416092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Febre do Ouro Corredeiras do Alasca" tvg-logo="https://i.imgur.com/d7x851A.png" group-title="✔️ CANAIS 24H",Febre do Ouro Corredeiras do Alasca
+http://segundafeira.site:80/159753/159753/1416159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Febre do ouro Freddy Dodge ao Resgate" tvg-logo="https://i.imgur.com/d7x851A.png" group-title="✔️ CANAIS 24H",Febre do ouro Freddy Dodge ao Resgate
+http://segundafeira.site:80/159753/159753/1416157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Febre do ouro O Inverno esta aqui" tvg-logo="https://i.imgur.com/d7x851A.png" group-title="✔️ CANAIS 24H",Febre do ouro O Inverno esta aqui
+http://segundafeira.site:80/159753/159753/1416091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ferinha e a Fabrica de Tudo" tvg-logo="https://i.imgur.com/JTbRBNj.png" group-title="✔️ DESENHOS 24H",Ferinha e a Fabrica de Tudo
+http://segundafeira.site:80/159753/159753/1727794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filhos da Anarquia [TEMP 1 - 4]" tvg-logo="https://i.imgur.com/ue5drzS.png" group-title="✔️ SERIES 24H",Filhos da Anarquia [TEMP 1 - 4]
+http://segundafeira.site:80/159753/159753/1731712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filhos da Anarquia [TEMP 5 - 7]" tvg-logo="https://i.imgur.com/jjD7SsW.png" group-title="✔️ SERIES 24H",Filhos da Anarquia [TEMP 5 - 7]
+http://segundafeira.site:80/159753/159753/1731713.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES ACAO" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES ACAO
+http://segundafeira.site:80/159753/159753/1727984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Animação Infantil #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Animação Infantil #2
+http://segundafeira.site:80/159753/159753/2215536.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES AVENTURA" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES AVENTURA
+http://segundafeira.site:80/159753/159753/1727980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Ação #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Ação #2
+http://segundafeira.site:80/159753/159753/2215535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Comédia #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Comédia #2
+http://segundafeira.site:80/159753/159753/2215537.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES CRIME | SUSPENSE" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES CRIME | SUSPENSE
+http://segundafeira.site:80/159753/159753/1727978.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES DRAMA" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES DRAMA
+http://segundafeira.site:80/159753/159753/1727982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Drama #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Drama #2
+http://segundafeira.site:80/159753/159753/2215538.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES FAMILIA" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES FAMILIA
+http://segundafeira.site:80/159753/159753/1727977.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES FAROESTE" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES FAROESTE
+http://segundafeira.site:80/159753/159753/1727988.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES LANCAMENTO" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES LANCAMENTO
+http://segundafeira.site:80/159753/159753/1727985.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES RELIGIOSOS" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES RELIGIOSOS
+http://segundafeira.site:80/159753/159753/1727986.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES ROMANCE" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES ROMANCE
+http://segundafeira.site:80/159753/159753/1727983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Romance #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Romance #2
+http://segundafeira.site:80/159753/159753/2215539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense #2" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Filmes Suspense #2
+http://segundafeira.site:80/159753/159753/2215540.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMES TERROR" tvg-logo="https://i.imgur.com/ti6zcoM.png" group-title="✔️ FILMES 24H",FILMES TERROR
+http://segundafeira.site:80/159753/159753/1727981.ts
+#EXTINF:-1 tvg-id="" tvg-name="FORRO" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",FORRO
+http://segundafeira.site:80/159753/159753/2162314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Frajola e Piu Piu" tvg-logo="https://i.imgur.com/2Vl4TY1.png" group-title="✔️ DESENHOS 24H",Frajola e Piu Piu
+http://segundafeira.site:80/159753/159753/1754626.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS #1" tvg-logo="https://i.imgur.com/xbI2HnR.png" group-title="✔️ SERIES 24H",FRIENDS #1
+http://segundafeira.site:80/159753/159753/1759177.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRIENDS #2" tvg-logo="https://i.imgur.com/xbI2HnR.png" group-title="✔️ SERIES 24H",FRIENDS #2
+http://segundafeira.site:80/159753/159753/1759178.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRIEREN" tvg-logo="https://i.postimg.cc/P5Yzkg9t/576-md-removebg-preview.png" group-title="✔️ ANIMES 24H",FRIEREN
+http://segundafeira.site:80/159753/159753/2209915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist: Brotherhood" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",Fullmetal Alchemist: Brotherhood
+http://segundafeira.site:80/159753/159753/2212744.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUNK" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",FUNK
+http://segundafeira.site:80/159753/159753/1728016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Furia no transito" tvg-logo="https://i.imgur.com/YjROGRr.png" group-title="✔️ CANAIS 24H",Furia no transito
+http://segundafeira.site:80/159753/159753/1725912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futebol de Rua" tvg-logo="https://i.imgur.com/lRgx7Vb.png" group-title="✔️ DESENHOS 24H",Futebol de Rua
+http://segundafeira.site:80/159753/159753/1727795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",Futurama
+http://segundafeira.site:80/159753/159753/2215530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha pintadinha" tvg-logo="https://i.imgur.com/KCWrfQZ.png" group-title="✔️ DESENHOS 24H",Galinha pintadinha
+http://segundafeira.site:80/159753/159753/1727273.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",GALINHA PINTADINHA
+http://segundafeira.site:80/159753/159753/2215507.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA MINI" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",GALINHA PINTADINHA MINI
+http://segundafeira.site:80/159753/159753/2215508.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ SERIES 24H",GAME OF THRONES
+http://segundafeira.site:80/159753/159753/2211118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="https://i.imgur.com/N2U6TsU.png" group-title="✔️ DESENHOS 24H",Garfield
+http://segundafeira.site:80/159753/159753/1727294.ts
+#EXTINF:-1 tvg-id="" tvg-name="GASPARZINHO" tvg-logo="https://i.imgur.com/OAIH3cA.png" group-title="✔️ DESENHOS 24H",GASPARZINHO
+http://segundafeira.site:80/159753/159753/2165876.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",GENESIS
+http://segundafeira.site:80/159753/159753/2210123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ginger" tvg-logo="https://i.imgur.com/f3D9Ltw.png" group-title="✔️ DESENHOS 24H",Ginger
+http://segundafeira.site:80/159753/159753/1727750.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",GOSPEL
+http://segundafeira.site:80/159753/159753/1728014.ts
+#EXTINF:-1 tvg-id="" tvg-name="GREMLINS" tvg-logo="https://i.imgur.com/YyNGfov.png" group-title="✔️ DESENHOS 24H",GREMLINS
+http://segundafeira.site:80/159753/159753/1727709.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grey's Anatomy [TEMP 1 - 5]" tvg-logo="https://i.imgur.com/uCHYpdH.png" group-title="✔️ SERIES 24H",Grey's Anatomy [TEMP 1 - 5]
+http://segundafeira.site:80/159753/159753/1729981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grey's anatomy [TEMP 11 - 15]" tvg-logo="https://i.imgur.com/JPwCqZZ.png" group-title="✔️ SERIES 24H",Grey's anatomy [TEMP 11 - 15]
+http://segundafeira.site:80/159753/159753/1730089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grey's Anatomy [TEMP 16 - ATUAL]" tvg-logo="https://i.imgur.com/Wx5SxjL.png" group-title="✔️ SERIES 24H",Grey's Anatomy [TEMP 16 - ATUAL]
+http://segundafeira.site:80/159753/159753/1730090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grey's Anatomy [TEMP 6 - 10]" tvg-logo="https://i.imgur.com/EPGoKth.png" group-title="✔️ SERIES 24H",Grey's Anatomy [TEMP 6 - 10]
+http://segundafeira.site:80/159753/159753/1730088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grimm" tvg-logo="https://i.imgur.com/PnG8wRh.png" group-title="✔️ CANAIS 24H",Grimm
+http://segundafeira.site:80/159753/159753/1759541.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRJNGO - FAROESTE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",GRJNGO - FAROESTE
+http://segundafeira.site:80/159753/159753/2212001.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guerra entre vizinhos" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Guerra entre vizinhos
+http://segundafeira.site:80/159753/159753/1725913.ts
+#EXTINF:-1 tvg-id="" tvg-name="HANNAH MONTANA #1" tvg-logo="https://i.imgur.com/R52KCir.png" group-title="✔️ CANAIS 24H",HANNAH MONTANA #1
+http://segundafeira.site:80/159753/159753/1728008.ts
+#EXTINF:-1 tvg-id="" tvg-name="HANNAH MONTANA #2" tvg-logo="https://i.imgur.com/buOmzGR.png" group-title="✔️ CANAIS 24H",HANNAH MONTANA #2
+http://segundafeira.site:80/159753/159753/1728009.ts
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Harry Potter
+http://segundafeira.site:80/159753/159753/2165675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="https://i.imgur.com/z32o41V.png" group-title="✔️ DESENHOS 24H",Hercules
+http://segundafeira.site:80/159753/159753/1727703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hi Hi Puffy AmiYumi" tvg-logo="https://i.imgur.com/94oRgXv.png" group-title="✔️ DESENHOS 24H",Hi Hi Puffy AmiYumi
+http://segundafeira.site:80/159753/159753/1727244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hilda!" tvg-logo="https://i.imgur.com/n70fxFb.png" group-title="✔️ DESENHOS 24H",Hilda!
+http://segundafeira.site:80/159753/159753/1727749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia e Curiosidades" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Historia e Curiosidades
+http://segundafeira.site:80/159753/159753/1725914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia e Curiosidades #2" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Historia e Curiosidades #2
+http://segundafeira.site:80/159753/159753/1725915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Terror" tvg-logo="https://i.imgur.com/3NffV78.png" group-title="✔️ CANAIS 24H",Historias de Terror
+http://segundafeira.site:80/159753/159753/1725916.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT VERÃO BRASIL 2026" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",HIT VERÃO BRASIL 2026
+http://segundafeira.site:80/159753/159753/2162312.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem aranha" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Homem aranha
+http://segundafeira.site:80/159753/159753/2168789.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem Chorao" tvg-logo="https://i.imgur.com/PHYDczU.png" group-title="✔️ DESENHOS 24H",Homem Chorao
+http://segundafeira.site:80/159753/159753/1727710.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem pipa ja e" tvg-logo="https://i.imgur.com/h7XYgsC.png" group-title="✔️ DESENHOS 24H",Homem pipa ja e
+http://segundafeira.site:80/159753/159753/1727711.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hora da Aventura" tvg-logo="https://imgur.com/fCdGANU.png" group-title="✔️ DESENHOS 24H",Hora da Aventura
+http://segundafeira.site:80/159753/159753/1727748.ts
+#EXTINF:-1 tvg-id="" tvg-name="HORA DO RECREIO" tvg-logo="https://i.imgur.com/ZWdL6gO.png" group-title="✔️ DESENHOS 24H",HORA DO RECREIO
+http://segundafeira.site:80/159753/159753/2165889.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot Wheels - Pilotos" tvg-logo="https://e7.pngegg.com/pngimages/281/543/png-clipart-hot-wheels-logo-hot-wheels-world-s-best-driver-car-logo-hot-wheels-hot-wheels-world-thumbnail.png" group-title="✔️ DESENHOS 24H",Hot Wheels - Pilotos
+http://segundafeira.site:80/159753/159753/1727712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="https://i.imgur.com/9ICoUGO.png" group-title="✔️ CANAIS 24H",Icarly
+http://segundafeira.site:80/159753/159753/2129665.ts
+#EXTINF:-1 tvg-id="" tvg-name="INACREDITAVEL | INEXPLICAVEL" tvg-logo="https://i.imgur.com/3NffV78.png" group-title="✔️ CANAIS 24H",INACREDITAVEL | INEXPLICAVEL
+http://segundafeira.site:80/159753/159753/1725917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigando Crimes  | CRIMES #2" tvg-logo="https://i.imgur.com/3NffV78.png" group-title="✔️ CANAIS 24H",Investigando Crimes  | CRIMES #2
+http://segundafeira.site:80/159753/159753/1726700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigando Crimes | CRIMES" tvg-logo="https://i.imgur.com/3NffV78.png" group-title="✔️ CANAIS 24H",Investigando Crimes | CRIMES
+http://segundafeira.site:80/159753/159753/1726699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Irmao do Jorel" tvg-logo="https://i.imgur.com/7fhEzjD.png" group-title="✔️ DESENHOS 24H",Irmao do Jorel
+http://segundafeira.site:80/159753/159753/1759176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Irmaos construtores e a Fabrica de sonhos" tvg-logo="https://i.imgur.com/qdAx1e6.png" group-title="✔️ DESENHOS 24H",Irmaos construtores e a Fabrica de sonhos
+http://segundafeira.site:80/159753/159753/1727704.ts
+#EXTINF:-1 tvg-id="" tvg-name="JACKIE CHAN" tvg-logo="https://i.imgur.com/W7q4Ys1.png" group-title="✔️ FILMES 24H",JACKIE CHAN
+http://segundafeira.site:80/159753/159753/1731463.ts
+#EXTINF:-1 tvg-id="" tvg-name="JASON x FREDDY x CHUCK" tvg-logo="https://i.imgur.com/brUiWqP.png" group-title="✔️ FILMES 24H",JASON x FREDDY x CHUCK
+http://segundafeira.site:80/159753/159753/1731462.ts
+#EXTINF:-1 tvg-id="" tvg-name="JET LI" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",JET LI
+http://segundafeira.site:80/159753/159753/2132790.ts
+#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",John Wick
+http://segundafeira.site:80/159753/159753/2168794.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOJOS BIZARRE ADVENTURE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",JOJOS BIZARRE ADVENTURE
+http://segundafeira.site:80/159753/159753/2213584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kazoops" tvg-logo="https://i.imgur.com/wfaRYwu.png" group-title="✔️ DESENHOS 24H",Kazoops
+http://segundafeira.site:80/159753/159753/1727713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kenan & Kel" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",Kenan & Kel
+http://segundafeira.site:80/159753/159753/2215498.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIM POSSIBLE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ CANAIS 24H",KIM POSSIBLE
+http://segundafeira.site:80/159753/159753/2215500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kippo e os animonstros" tvg-logo="https://i.imgur.com/XhFoDSH.png" group-title="✔️ DESENHOS 24H",Kippo e os animonstros
+http://segundafeira.site:80/159753/159753/1727796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kiya e os Herois de Kimoja" tvg-logo="https://i.imgur.com/Ax2ftp9.png" group-title="✔️ DESENHOS 24H",Kiya e os Herois de Kimoja
+http://segundafeira.site:80/159753/159753/1727714.ts
+#EXTINF:-1 tvg-id="" tvg-name="KND - A TURMA DO BAIRRO" tvg-logo="https://imgur.com/2JkbWYp.png" group-title="✔️ DESENHOS 24H",KND - A TURMA DO BAIRRO
+http://segundafeira.site:80/159753/159753/1727746.ts
+#EXTINF:-1 tvg-id="" tvg-name="KPOP" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",KPOP
+http://segundafeira.site:80/159753/159753/1728000.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",KUBANACAN
+http://segundafeira.site:80/159753/159753/2210961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="https://i.imgur.com/yHzD7Jx.png" group-title="✔️ DESENHOS 24H",Kung Fu Panda
+http://segundafeira.site:80/159753/159753/1727797.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung fu Wa!" tvg-logo="https://i.imgur.com/BfZxlST.png" group-title="✔️ DESENHOS 24H",Kung fu Wa!
+http://segundafeira.site:80/159753/159753/1727798.ts
+#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",LACOS DE FAMILIA
+http://segundafeira.site:80/159753/159753/2211117.ts
+#EXTINF:-1 tvg-id="" tvg-name="LADYBUG" tvg-logo="https://i.imgur.com/aRxNObH.png" group-title="✔️ DESENHOS 24H",LADYBUG
+http://segundafeira.site:80/159753/159753/1727274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Largados e Pelados
+http://segundafeira.site:80/159753/159753/1416150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados #2" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Largados e Pelados #2
+http://segundafeira.site:80/159753/159753/2127145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados A TRIBO" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Largados e Pelados A TRIBO
+http://segundafeira.site:80/159753/159753/1416161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados Brasil" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Largados e Pelados Brasil
+http://segundafeira.site:80/159753/159753/1416094.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/800px-LEGO_logo.svg.png" group-title="✔️ DESENHOS 24H",LEGO
+http://segundafeira.site:80/159753/159753/1727266.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEGO #2" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-lego-logo-transparent-background-701751694773038ttazskfwrq.png" group-title="✔️ DESENHOS 24H",LEGO #2
+http://segundafeira.site:80/159753/159753/1727705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Liga da justiça em ação" tvg-logo="https://i.imgur.com/cjpaNmT.png" group-title="✔️ DESENHOS 24H",Liga da justiça em ação
+http://segundafeira.site:80/159753/159753/1727747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Little baby bum" tvg-logo="https://i.imgur.com/ft1guNt.png" group-title="✔️ DESENHOS 24H",Little baby bum
+http://segundafeira.site:80/159753/159753/1727778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes Cartoon" tvg-logo="https://i.imgur.com/jKrRNPk.png" group-title="✔️ DESENHOS 24H",Looney Tunes Cartoon
+http://segundafeira.site:80/159753/159753/1754627.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOUCADEMIA DE POLICIA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",LOUCADEMIA DE POLICIA
+http://segundafeira.site:80/159753/159753/1727766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Loucos por churrasco" tvg-logo="https://i.imgur.com/wdVd31Y.png" group-title="✔️ CANAIS 24H",Loucos por churrasco
+http://segundafeira.site:80/159753/159753/1416096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lucas: a Aranha" tvg-logo="https://br.web.img3.acsta.net/img/e8/d6/e8d69db8c795f859e0eeb0610d547d47.jpg" group-title="✔️ DESENHOS 24H",Lucas: a Aranha
+http://segundafeira.site:80/159753/159753/1727772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="https://i.imgur.com/sKbwk1q.png" group-title="✔️ DESENHOS 24H",Luluzinha
+http://segundafeira.site:80/159753/159753/1727227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lupin" tvg-logo="https://imgur.com/gaL6WTM.png" group-title="✔️ DESENHOS 24H",Lupin
+http://segundafeira.site:80/159753/159753/1727745.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADAGASCAR - Pequenos selvagens" tvg-logo="https://imgur.com/XwFBZ18.png" group-title="✔️ DESENHOS 24H",MADAGASCAR - Pequenos selvagens
+http://segundafeira.site:80/159753/159753/1727715.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANDACHUVA" tvg-logo="https://i.imgur.com/9Uvb4hN.png" group-title="✔️ DESENHOS 24H",MANDACHUVA
+http://segundafeira.site:80/159753/159753/2165875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mansao das Milfs" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Mansao das Milfs
+http://segundafeira.site:80/159753/159753/1726013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maquina mortifera" tvg-logo="https://i.imgur.com/2W3xBNx.png" group-title="✔️ SERIES 24H",Maquina mortifera
+http://segundafeira.site:80/159753/159753/1731473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maria Clara e JP" tvg-logo="https://i.imgur.com/mZYBVx7.png" group-title="✔️ DESENHOS 24H",Maria Clara e JP
+http://segundafeira.site:80/159753/159753/1727224.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",MARIA DO BAIRRO
+http://segundafeira.site:80/159753/159753/2212793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARSHA E O URSO" tvg-logo="https://i.imgur.com/MGI6mIQ.png" group-title="✔️ DESENHOS 24H",MARSHA E O URSO
+http://segundafeira.site:80/159753/159753/1727779.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL E DC - COMICS" tvg-logo="https://i.imgur.com/A7xHUIS.png" group-title="✔️ CANAIS 24H",MARVEL E DC - COMICS
+http://segundafeira.site:80/159753/159753/1731484.ts
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef #1" tvg-logo="https://i.imgur.com/Qi8RTjZ.png" group-title="✔️ CANAIS 24H",MasterChef #1
+http://segundafeira.site:80/159753/159753/1727969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef #2" tvg-logo="https://i.imgur.com/G5MTIdm.png" group-title="✔️ CANAIS 24H",MasterChef #2
+http://segundafeira.site:80/159753/159753/1727970.ts
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef #3" tvg-logo="https://i.imgur.com/WMDSQrJ.png" group-title="✔️ CANAIS 24H",MasterChef #3
+http://segundafeira.site:80/159753/159753/1727971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maça e Cebolinha" tvg-logo="https://i.imgur.com/60Lqrbk.png" group-title="✔️ DESENHOS 24H",Maça e Cebolinha
+http://segundafeira.site:80/159753/159753/1727780.ts
+#EXTINF:-1 tvg-id="" tvg-name="MecANIMAIS" tvg-logo="https://imgur.com/bonQPbV.png" group-title="✔️ DESENHOS 24H",MecANIMAIS
+http://segundafeira.site:80/159753/159753/1727744.ts
+#EXTINF:-1 tvg-id="" tvg-name="MedaBots" tvg-logo="https://i.imgur.com/dLWfR5K.png" group-title="✔️ DESENHOS 24H",MedaBots
+http://segundafeira.site:80/159753/159753/1759272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megaman" tvg-logo="https://imgur.com/x4QaY2f.png" group-title="✔️ DESENHOS 24H",Megaman
+http://segundafeira.site:80/159753/159753/1727743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megaman" tvg-logo="https://i.imgur.com/rfHAABB.png" group-title="✔️ DESENHOS 24H",Megaman
+http://segundafeira.site:80/159753/159753/1727251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meu AmigaoZAO" tvg-logo="https://i.imgur.com/BBtPuXl.png" group-title="✔️ DESENHOS 24H",Meu AmigaoZAO
+http://segundafeira.site:80/159753/159753/1727781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="https://i.imgur.com/cClYhyH.png" group-title="✔️ DESENHOS 24H",Mickey Mouse
+http://segundafeira.site:80/159753/159753/1727229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Sobre Rodas" tvg-logo="https://i.imgur.com/8j8SugN.png" group-title="✔️ DESENHOS 24H",Mickey Mouse Sobre Rodas
+http://segundafeira.site:80/159753/159753/1727716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Misterios" tvg-logo="https://i.imgur.com/MLxqydm.png" group-title="✔️ CANAIS 24H",Misterios
+http://segundafeira.site:80/159753/159753/1726014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Misterios #2" tvg-logo="https://i.imgur.com/MLxqydm.png" group-title="✔️ CANAIS 24H",Misterios #2
+http://segundafeira.site:80/159753/159753/1726015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Misterios na Natureza" tvg-logo="https://i.imgur.com/MLxqydm.png" group-title="✔️ CANAIS 24H",Misterios na Natureza
+http://segundafeira.site:80/159753/159753/1762994.ts
+#EXTINF:-1 tvg-id="" tvg-name="Molang" tvg-logo="https://i.imgur.com/8Qn5eoh.png" group-title="✔️ DESENHOS 24H",Molang
+http://segundafeira.site:80/159753/159753/1727799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Momonstros" tvg-logo="https://i.imgur.com/DSfaIEl.png" group-title="✔️ DESENHOS 24H",Momonstros
+http://segundafeira.site:80/159753/159753/1727252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monster Machine" tvg-logo="https://i.imgur.com/mVPvQrT.png" group-title="✔️ DESENHOS 24H",Monster Machine
+http://segundafeira.site:80/159753/159753/1727740.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOTIVACAO P/ FAXINA" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",MOTIVACAO P/ FAXINA
+http://segundafeira.site:80/159753/159753/2162313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motos" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Motos
+http://segundafeira.site:80/159753/159753/1726016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mucha lucha" tvg-logo="https://i.imgur.com/mFJhh2t.png" group-title="✔️ DESENHOS 24H",Mucha lucha
+http://segundafeira.site:80/159753/159753/1727253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita" tvg-logo="https://i.imgur.com/qcMvO61.png" group-title="✔️ DESENHOS 24H",Mundo Bita
+http://segundafeira.site:80/159753/159753/1727250.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO BITA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",MUNDO BITA
+http://segundafeira.site:80/159753/159753/2215504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Muppets" tvg-logo="https://i.imgur.com/OeQKbz3.png" group-title="✔️ CANAIS 24H",Muppets
+http://segundafeira.site:80/159753/159753/1725646.ts
+#EXTINF:-1 tvg-id="" tvg-name="Muquiranas" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Muquiranas
+http://segundafeira.site:80/159753/159753/1726017.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Little Ponny #2" tvg-logo="https://i.imgur.com/914jx9L.png" group-title="✔️ DESENHOS 24H",My Little Ponny #2
+http://segundafeira.site:80/159753/159753/1727739.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Little Pony" tvg-logo="https://e1.pngegg.com/pngimages/128/466/png-clipart-my-little-pony-blue-my-little-pony-illustration-thumbnail.png" group-title="✔️ DESENHOS 24H",My Little Pony
+http://segundafeira.site:80/159753/159753/1727718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mya Go!" tvg-logo="https://imgur.com/3g3zNJy.png" group-title="✔️ DESENHOS 24H",Mya Go!
+http://segundafeira.site:80/159753/159753/1727737.ts
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://i.imgur.com/8QHxB8n.png" group-title="✔️ DESENHOS 24H",NARUTO
+http://segundafeira.site:80/159753/159753/1727992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naruto shippuden" tvg-logo="https://i.imgur.com/cOtSlwq.png" group-title="✔️ DESENHOS 24H",Naruto shippuden
+http://segundafeira.site:80/159753/159753/1727281.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CLONE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",O CLONE
+http://segundafeira.site:80/159753/159753/2210052.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CRAVO E A ROSA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",O CRAVO E A ROSA
+http://segundafeira.site:80/159753/159753/2210053.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Curioso mundo de James" tvg-logo="https://i.imgur.com/jEjI4ne.png" group-title="✔️ DESENHOS 24H",O Curioso mundo de James
+http://segundafeira.site:80/159753/159753/1727277.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Hulk" tvg-logo="https://i.imgur.com/Tl1ggMX.png" group-title="✔️ DESENHOS 24H",O Incrivel Hulk
+http://segundafeira.site:80/159753/159753/1729048.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel mundo de Gumball" tvg-logo="https://i.imgur.com/eEYjB8J.png" group-title="✔️ DESENHOS 24H",O Incrivel mundo de Gumball
+http://segundafeira.site:80/159753/159753/1727248.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Laboratorio de Dexter" tvg-logo="https://i.imgur.com/rVy5A9H.png" group-title="✔️ DESENHOS 24H",O Laboratorio de Dexter
+http://segundafeira.site:80/159753/159753/1727276.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara" tvg-logo="https://i.imgur.com/LAjXVfk.png" group-title="✔️ DESENHOS 24H",O Maskara
+http://segundafeira.site:80/159753/159753/1727736.ts
+#EXTINF:-1 tvg-id="" tvg-name="O MENTALISTA" tvg-logo="https://i.imgur.com/RATPWUa.png" group-title="✔️ SERIES 24H",O MENTALISTA
+http://segundafeira.site:80/159753/159753/1732119.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Misterio da Fazenda Blind Frog" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",O Misterio da Fazenda Blind Frog
+http://segundafeira.site:80/159753/159753/1726022.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros" tvg-logo="https://i.imgur.com/fG4RANf.png" group-title="✔️ DESENHOS 24H",O Mundo dos Centauros
+http://segundafeira.site:80/159753/159753/1727735.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Novo Show do PICA PAU" tvg-logo="https://i.imgur.com/JwXqtyF.png" group-title="✔️ DESENHOS 24H",O Novo Show do PICA PAU
+http://segundafeira.site:80/159753/159753/1754620.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso" tvg-logo="https://i.imgur.com/4AusTms.png" group-title="✔️ DESENHOS 24H",O Pequeno Urso
+http://segundafeira.site:80/159753/159753/1727782.ts
+#EXTINF:-1 tvg-id="" tvg-name="O PIMENTINHA" tvg-logo="https://preview.redd.it/dennis-the-menace-cartoon-1986-1988-v0-vvlgg2e85fte1.jpg?width=640&crop=smart&auto=webp&s=d578364a9924f2583d7cb751cdc0d075040e6d06" group-title="✔️ DESENHOS 24H",O PIMENTINHA
+http://segundafeira.site:80/159753/159753/2127652.ts
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",O REI DO GADO
+http://segundafeira.site:80/159753/159753/2210946.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo do Rancho Skinwalker" tvg-logo="https://i.imgur.com/eOnqF1K.jpeg" group-title="✔️ CANAIS 24H",O Segredo do Rancho Skinwalker
+http://segundafeira.site:80/159753/159753/1754624.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Show Da Luna" tvg-logo="https://i.imgur.com/mB3m5Tt.png" group-title="✔️ DESENHOS 24H",O Show Da Luna
+http://segundafeira.site:80/159753/159753/1800386.ts
+#EXTINF:-1 tvg-id="" tvg-name="O show de TOM E JERRY" tvg-logo="https://i.imgur.com/tqxW19a.png" group-title="✔️ DESENHOS 24H",O show de TOM E JERRY
+http://segundafeira.site:80/159753/159753/1754621.ts
+#EXTINF:-1 tvg-id="" tvg-name="O SOCIO" tvg-logo="https://i.imgur.com/yQBNz5Q.png" group-title="✔️ CANAIS 24H",O SOCIO
+http://segundafeira.site:80/159753/159753/1731474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Obras" tvg-logo="https://i.imgur.com/Oa932nV.png" group-title="✔️ CANAIS 24H",Obras
+http://segundafeira.site:80/159753/159753/1726023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Obras #2" tvg-logo="https://i.imgur.com/Oa932nV.png" group-title="✔️ CANAIS 24H",Obras #2
+http://segundafeira.site:80/159753/159753/1726024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Operacao FRONTEIRA BRASIL" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Operacao FRONTEIRA BRASIL
+http://segundafeira.site:80/159753/159753/1726026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Operacao FRONTEIRA EUA" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Operacao FRONTEIRA EUA
+http://segundafeira.site:80/159753/159753/1726027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Operacao FRONTEIRA SUECIA" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Operacao FRONTEIRA SUECIA
+http://segundafeira.site:80/159753/159753/1726028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Operaçao FRONTEIRA AMERICA DO SUL" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Operaçao FRONTEIRA AMERICA DO SUL
+http://segundafeira.site:80/159753/159753/1726025.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.postimg.cc/vmyjRLPm/cavaleiros-do-zodiaco-logo-png-seeklogo-239247-removebg-preview.png" group-title="✔️ ANIMES 24H",OS CAVALEIROS DO ZODIACO
+http://segundafeira.site:80/159753/159753/2209916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="https://i.imgur.com/nbmJsve.png" group-title="✔️ DESENHOS 24H",Os Flintstones
+http://segundafeira.site:80/159753/159753/1727267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Invenciveis carros monstros" tvg-logo="https://i.imgur.com/CT1slcF.jpeg" group-title="✔️ DESENHOS 24H",Os Invenciveis carros monstros
+http://segundafeira.site:80/159753/159753/1757441.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="https://i.imgur.com/pX3lzhG.png" group-title="✔️ DESENHOS 24H",OS JETSONS
+http://segundafeira.site:80/159753/159753/1729170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Pequenos Johnsons" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Os Pequenos Johnsons
+http://segundafeira.site:80/159753/159753/1416087.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de MADAGASCAR" tvg-logo="https://imgur.com/REZnqsq.png" group-title="✔️ DESENHOS 24H",Os Pinguins de MADAGASCAR
+http://segundafeira.site:80/159753/159753/1727734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Sete Monstrinhos" tvg-logo="https://i.imgur.com/87i8uOv.png" group-title="✔️ DESENHOS 24H",Os Sete Monstrinhos
+http://segundafeira.site:80/159753/159753/1727733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://i.imgur.com/KmjdZ07.png" group-title="✔️ DESENHOS 24H",Os Simpsons
+http://segundafeira.site:80/159753/159753/1725651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os SIMPSONS #2" tvg-logo="https://i.imgur.com/d4U8OgG.png" group-title="✔️ DESENHOS 24H",Os SIMPSONS #2
+http://segundafeira.site:80/159753/159753/1728015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="https://i.imgur.com/DTzgbeO.png" group-title="✔️ DESENHOS 24H",Os Smurfs
+http://segundafeira.site:80/159753/159753/1727783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os trapalhoes" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Os trapalhoes
+http://segundafeira.site:80/159753/159753/1725647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Gummi" tvg-logo="https://i.imgur.com/r560qLJ.png" group-title="✔️ DESENHOS 24H",Os Ursinhos Gummi
+http://segundafeira.site:80/159753/159753/1725808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Padrinhos Magicos" tvg-logo="https://i.imgur.com/tt1AzN5.png" group-title="✔️ DESENHOS 24H",Padrinhos Magicos
+http://segundafeira.site:80/159753/159753/1727234.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAGODE" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",PAGODE
+http://segundafeira.site:80/159753/159753/1728001.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANICO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",PANICO
+http://segundafeira.site:80/159753/159753/2168793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panico na Floresta" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Panico na Floresta
+http://segundafeira.site:80/159753/159753/2168792.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/3Zz4qne.png" group-title="✔️ DESENHOS 24H",PANTERA COR DE ROSA
+http://segundafeira.site:80/159753/159753/2165897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARA RELAXAR" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",PARA RELAXAR
+http://segundafeira.site:80/159753/159753/2129417.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARA SEU CHURRASCO" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",PARA SEU CHURRASCO
+http://segundafeira.site:80/159753/159753/2129414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pato Donalds e Seus Sobrinhos" tvg-logo="https://i.imgur.com/Lb2Bb3f.png" group-title="✔️ DESENHOS 24H",Pato Donalds e Seus Sobrinhos
+http://segundafeira.site:80/159753/159753/1729049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina" tvg-logo="https://i.imgur.com/FGygBod.png" group-title="✔️ DESENHOS 24H",Patrulha canina
+http://segundafeira.site:80/159753/159753/1727241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina #2" tvg-logo="https://i.imgur.com/kZJb9qr.png" group-title="✔️ DESENHOS 24H",Patrulha Canina #2
+http://segundafeira.site:80/159753/159753/1727732.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEAKY BLINDERS [TEMP 1 e 2]" tvg-logo="https://i.imgur.com/uBBL7iH.png" group-title="✔️ SERIES 24H",PEAKY BLINDERS [TEMP 1 e 2]
+http://segundafeira.site:80/159753/159753/1735407.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEAKY BLINDERS [TEMP 3 e 4]" tvg-logo="https://i.imgur.com/mtSi8oA.png" group-title="✔️ SERIES 24H",PEAKY BLINDERS [TEMP 3 e 4]
+http://segundafeira.site:80/159753/159753/1735408.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEAKY BLINDERS [TEMP 5 e 6]" tvg-logo="https://i.imgur.com/hfWe09y.png" group-title="✔️ SERIES 24H",PEAKY BLINDERS [TEMP 5 e 6]
+http://segundafeira.site:80/159753/159753/1735409.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEIXONAUTA" tvg-logo="https://imgur.com/8YK974w.png" group-title="✔️ DESENHOS 24H",PEIXONAUTA
+http://segundafeira.site:80/159753/159753/1727724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://i.imgur.com/8wF0T3S.png" group-title="✔️ DESENHOS 24H",Peppa Pig
+http://segundafeira.site:80/159753/159753/1727255.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDOS EM OZ" tvg-logo="https://i.imgur.com/Eqjr030.png" group-title="✔️ DESENHOS 24H",PERDIDOS EM OZ
+http://segundafeira.site:80/159753/159753/1727784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Perseguições Policia EUA" tvg-logo="https://i.ibb.co/bH2CQtR/24h.png" group-title="✔️ CANAIS 24H",Perseguições Policia EUA
+http://segundafeira.site:80/159753/159753/1416068.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA [TEMP 1 e 2]" tvg-logo="https://i.imgur.com/m5nqAMW.png" group-title="✔️ CANAIS 24H",PESADELO NA COZINHA [TEMP 1 e 2]
+http://segundafeira.site:80/159753/159753/1729616.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESADELO NA COZINHA [TEMP 3 e 4]" tvg-logo="https://i.imgur.com/m5nqAMW.png" group-title="✔️ CANAIS 24H",PESADELO NA COZINHA [TEMP 3 e 4]
+http://segundafeira.site:80/159753/159753/1729617.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESCA MORTAL  #2" tvg-logo="https://i.imgur.com/P6qbZqO.jpeg" group-title="✔️ CANAIS 24H",PESCA MORTAL  #2
+http://segundafeira.site:80/159753/159753/1754605.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESCA MORTAL #1" tvg-logo="https://i.imgur.com/P6qbZqO.jpeg" group-title="✔️ CANAIS 24H",PESCA MORTAL #1
+http://segundafeira.site:80/159753/159753/1754604.ts
+#EXTINF:-1 tvg-id="" tvg-name="PESCA MORTAL #3" tvg-logo="https://i.imgur.com/P6qbZqO.jpeg" group-title="✔️ CANAIS 24H",PESCA MORTAL #3
+http://segundafeira.site:80/159753/159753/1754606.ts
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",PICA PAU
+http://segundafeira.site:80/159753/159753/2215506.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau CLASSICO" tvg-logo="https://i.imgur.com/AFWu7xM.png" group-title="✔️ DESENHOS 24H",Pica-Pau CLASSICO
+http://segundafeira.site:80/159753/159753/1754634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pinky e Cerebro" tvg-logo="https://i.imgur.com/qClOBG3.png" group-title="✔️ DESENHOS 24H",Pinky e Cerebro
+http://segundafeira.site:80/159753/159753/1727265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="https://i.imgur.com/SpK052j.png" group-title="✔️ DESENHOS 24H",Pocoyo
+http://segundafeira.site:80/159753/159753/1727243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="https://i.imgur.com/VVRv7W9.png" group-title="✔️ ANIMES 24H",Pokemon
+http://segundafeira.site:80/159753/159753/1759270.ts
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",POKEMON
+http://segundafeira.site:80/159753/159753/2210967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Policia 24H" tvg-logo="https://i.imgur.com/vXfqxaR.jpeg" group-title="✔️ CANAIS 24H",Policia 24H
+http://segundafeira.site:80/159753/159753/1727976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="https://i.imgur.com/uG6gP5q.png" group-title="✔️ DESENHOS 24H",Popeye
+http://segundafeira.site:80/159753/159753/1727228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premonicao" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Premonicao
+http://segundafeira.site:80/159753/159753/2168787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Princesinha SOFIA" tvg-logo="https://i.imgur.com/hDyly0W.png" group-title="✔️ DESENHOS 24H",Princesinha SOFIA
+http://segundafeira.site:80/159753/159753/1727264.ts
+#EXTINF:-1 tvg-id="" tvg-name="PROJETO ZETA" tvg-logo="https://i.imgur.com/OzT8RGz.png" group-title="✔️ DESENHOS 24H",PROJETO ZETA
+http://segundafeira.site:80/159753/159753/2164851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Quilos mortais" tvg-logo="https://i.imgur.com/NHT1dv1.png" group-title="✔️ CANAIS 24H",Quilos mortais
+http://segundafeira.site:80/159753/159753/1416090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Quilos Mortais Como eles estão agora?" tvg-logo="https://i.imgur.com/NHT1dv1.png" group-title="✔️ CANAIS 24H",Quilos Mortais Como eles estão agora?
+http://segundafeira.site:80/159753/159753/1416151.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAP BRASIL" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",RAP BRASIL
+http://segundafeira.site:80/159753/159753/1728017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rapunzel" tvg-logo="https://imgur.com/slNVbII.png" group-title="✔️ DESENHOS 24H",Rapunzel
+http://segundafeira.site:80/159753/159753/1727753.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",REBELDE
+http://segundafeira.site:80/159753/159753/2211116.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDECORAR" tvg-logo="https://i.imgur.com/NHT1dv1.png" group-title="✔️ CANAIS 24H",REDECORAR
+http://segundafeira.site:80/159753/159753/1726188.ts
+#EXTINF:-1 tvg-id="" tvg-name="REFORMA E TUNAGEM DE CARROS" tvg-logo="https://i.imgur.com/NHT1dv1.png" group-title="✔️ CANAIS 24H",REFORMA E TUNAGEM DE CARROS
+http://segundafeira.site:80/159753/159753/1726189.ts
+#EXTINF:-1 tvg-id="" tvg-name="RETOMADA E POSSE DE AVIOES" tvg-logo="https://i.imgur.com/NHT1dv1.png" group-title="✔️ CANAIS 24H",RETOMADA E POSSE DE AVIOES
+http://segundafeira.site:80/159753/159753/1726190.ts
+#EXTINF:-1 tvg-id="" tvg-name="RICKY E MORTY #1" tvg-logo="https://i.imgur.com/uOL1riE.png" group-title="✔️ DESENHOS 24H",RICKY E MORTY #1
+http://segundafeira.site:80/159753/159753/1729171.ts
+#EXTINF:-1 tvg-id="" tvg-name="RICKY E MORTY #2" tvg-logo="https://i.imgur.com/l3zjVJw.png" group-title="✔️ DESENHOS 24H",RICKY E MORTY #2
+http://segundafeira.site:80/159753/159753/1729172.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIDDICK" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",RIDDICK
+http://segundafeira.site:80/159753/159753/2212000.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ANOS 2000" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",ROCK ANOS 2000
+http://segundafeira.site:80/159753/159753/1728013.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ANOS 80/90" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",ROCK ANOS 80/90
+http://segundafeira.site:80/159753/159753/1728018.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",ROQUE SANTEIRO
+http://segundafeira.site:80/159753/159753/2212135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rubble e Sua Turma" tvg-logo="https://i.imgur.com/P67hc9g.png" group-title="✔️ DESENHOS 24H",Rubble e Sua Turma
+http://segundafeira.site:80/159753/159753/1727802.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUBI" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",RUBI
+http://segundafeira.site:80/159753/159753/2213388.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rugrats: Os anjinhos" tvg-logo="https://i.imgur.com/bBKhSrQ.png" group-title="✔️ DESENHOS 24H",Rugrats: Os anjinhos
+http://segundafeira.site:80/159753/159753/1727245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rumo ao Desconhecido" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Rumo ao Desconhecido
+http://segundafeira.site:80/159753/159753/1416174.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="https://i.imgur.com/YbEBEZK.png" group-title="✔️ CANAIS 24H",SAI DE BAIXO
+http://segundafeira.site:80/159753/159753/1729174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo #2" tvg-logo="https://i.imgur.com/YbEBEZK.png" group-title="✔️ CANAIS 24H",Sai de Baixo #2
+http://segundafeira.site:80/159753/159753/1774592.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARD CAPTOR" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",SAKURA CARD CAPTOR
+http://segundafeira.site:80/159753/159753/2215503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Salsicha e Scooby" tvg-logo="https://i.imgur.com/RZepSxl.png" group-title="✔️ DESENHOS 24H",Salsicha e Scooby
+http://segundafeira.site:80/159753/159753/1727719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Salve Meu Restaurante" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Salve Meu Restaurante
+http://segundafeira.site:80/159753/159753/1726191.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI JACK" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",SAMURAI JACK
+http://segundafeira.site:80/159753/159753/2215502.ts
+#EXTINF:-1 tvg-id="" tvg-name="SANDY & JUNIOR" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",SANDY & JUNIOR
+http://segundafeira.site:80/159753/159753/2215305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-doo" tvg-logo="https://i.imgur.com/cqZMb1H.png" group-title="✔️ DESENHOS 24H",Scooby-doo
+http://segundafeira.site:80/159753/159753/1754623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-doo e Scooby-loo" tvg-logo="https://i.imgur.com/qqJmgCU.png" group-title="✔️ DESENHOS 24H",Scooby-doo e Scooby-loo
+http://segundafeira.site:80/159753/159753/1727800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Segredos da NASA" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Segredos da NASA
+http://segundafeira.site:80/159753/159753/1726192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Selvagem" tvg-logo="https://i.imgur.com/HyFeLqu.png" group-title="✔️ CANAIS 24H",Selvagem
+http://segundafeira.site:80/159753/159753/1725911.ts
+#EXTINF:-1 tvg-id="" tvg-name="SENHORA DO DESTINO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",SENHORA DO DESTINO
+http://segundafeira.site:80/159753/159753/2210121.ts
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",SERTANEJO
+http://segundafeira.site:80/159753/159753/1728019.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHE RA" tvg-logo="https://i.imgur.com/gFS7jIa.png" group-title="✔️ DESENHOS 24H",SHE RA
+http://segundafeira.site:80/159753/159753/2162465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="https://i.imgur.com/WfNUx4x.png" group-title="✔️ FILMES 24H",Shrek
+http://segundafeira.site:80/159753/159753/1727811.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIMBA: O REI LEAO" tvg-logo="https://i.imgur.com/hZ35jwN.png" group-title="✔️ DESENHOS 24H",SIMBA: O REI LEAO
+http://segundafeira.site:80/159753/159753/2165874.ts
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",Snoopy
+http://segundafeira.site:80/159753/159753/2215525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy e sua turma" tvg-logo="https://i.imgur.com/FpD6mpE.png" group-title="✔️ DESENHOS 24H",Snoopy e sua turma
+http://segundafeira.site:80/159753/159753/1727275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural #1" tvg-logo="https://i.imgur.com/beEFSyk.png" group-title="✔️ CANAIS 24H",Sobrenatural #1
+http://segundafeira.site:80/159753/159753/1759542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural #2" tvg-logo="https://i.imgur.com/beEFSyk.png" group-title="✔️ CANAIS 24H",Sobrenatural #2
+http://segundafeira.site:80/159753/159753/1759543.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOBREVIVENCIA NA NATUREZA" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",SOBREVIVENCIA NA NATUREZA
+http://segundafeira.site:80/159753/159753/1726193.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOLO LEVELING" tvg-logo="https://i.postimg.cc/MpqvCFQf/images-removebg-preview(1).png" group-title="✔️ ANIMES 24H",SOLO LEVELING
+http://segundafeira.site:80/159753/159753/2210005.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic" tvg-logo="https://i.imgur.com/dbEFtdI.png" group-title="✔️ DESENHOS 24H",Sonic
+http://segundafeira.site:80/159753/159753/1727285.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONIC prime" tvg-logo="https://imgur.com/9dwuzb8.png" group-title="✔️ DESENHOS 24H",SONIC prime
+http://segundafeira.site:80/159753/159753/1727722.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK #1" tvg-logo="https://i.imgur.com/05TLLHx.png" group-title="✔️ DESENHOS 24H",SOUTH PARK #1
+http://segundafeira.site:80/159753/159753/1727258.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK #2" tvg-logo="https://i.imgur.com/OpBilqy.png" group-title="✔️ DESENHOS 24H",SOUTH PARK #2
+http://segundafeira.site:80/159753/159753/1727259.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK #3" tvg-logo="https://i.imgur.com/991H2Yg.png" group-title="✔️ DESENHOS 24H",SOUTH PARK #3
+http://segundafeira.site:80/159753/159753/1727260.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK #4" tvg-logo="https://i.imgur.com/RQEpv3c.png" group-title="✔️ DESENHOS 24H",SOUTH PARK #4
+http://segundafeira.site:80/159753/159753/1727261.ts
+#EXTINF:-1 tvg-id="" tvg-name="STALLONE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",STALLONE
+http://segundafeira.site:80/159753/159753/1726701.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAND UP" tvg-logo="https://i.imgur.com/xepNXlg.png" group-title="✔️ CANAIS 24H",STAND UP
+http://segundafeira.site:80/159753/159753/1727989.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",STAR WARS
+http://segundafeira.site:80/159753/159753/2168795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universo" tvg-logo="https://i.imgur.com/OzjjXC9.png" group-title="✔️ DESENHOS 24H",Steven Universo
+http://segundafeira.site:80/159753/159753/1727246.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ DESENHOS 24H",SUPER CHOQUE
+http://segundafeira.site:80/159753/159753/2215501.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperMan" tvg-logo="https://imgur.com/jfCTmUi.png" group-title="✔️ DESENHOS 24H",SuperMan
+http://segundafeira.site:80/159753/159753/1727741.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA NOSTRA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",TERRA NOSTRA
+http://segundafeira.site:80/159753/159753/2210947.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE CLEVELAND SHOW" tvg-logo="https://i.imgur.com/26rdV7K.png" group-title="✔️ DESENHOS 24H",THE CLEVELAND SHOW
+http://segundafeira.site:80/159753/159753/1731472.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE OFFICE #1" tvg-logo="https://i.imgur.com/u3JxJPw.png" group-title="✔️ SERIES 24H",THE OFFICE #1
+http://segundafeira.site:80/159753/159753/1759185.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Office #2" tvg-logo="https://i.imgur.com/u3JxJPw.png" group-title="✔️ SERIES 24H",The Office #2
+http://segundafeira.site:80/159753/159753/1759186.ts
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats" tvg-logo="https://i.imgur.com/MlUVoMr.png" group-title="✔️ DESENHOS 24H",ThunderCats
+http://segundafeira.site:80/159753/159753/1727263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco #1" tvg-logo="https://i.imgur.com/exM68Tg.png" group-title="✔️ DESENHOS 24H",Tico e Teco #1
+http://segundafeira.site:80/159753/159753/1727235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco #2" tvg-logo="https://i.imgur.com/exM68Tg.png" group-title="✔️ DESENHOS 24H",Tico e Teco #2
+http://segundafeira.site:80/159753/159753/1754622.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="https://i.imgur.com/W2ZhC8O.png" group-title="✔️ DESENHOS 24H",TIMAO E PUMBA
+http://segundafeira.site:80/159753/159753/1728010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo mundo em Panico" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Todo mundo em Panico
+http://segundafeira.site:80/159753/159753/2168791.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS #1" tvg-logo="https://i.imgur.com/foWjVFD.png" group-title="✔️ SERIES 24H",TODO MUNDO ODEIA O CHRIS #1
+http://segundafeira.site:80/159753/159753/1740826.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS #2" tvg-logo="https://i.imgur.com/foWjVFD.png" group-title="✔️ SERIES 24H",TODO MUNDO ODEIA O CHRIS #2
+http://segundafeira.site:80/159753/159753/1740827.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS #3" tvg-logo="https://i.imgur.com/foWjVFD.png" group-title="✔️ SERIES 24H",TODO MUNDO ODEIA O CHRIS #3
+http://segundafeira.site:80/159753/159753/1740828.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS #4" tvg-logo="https://i.imgur.com/foWjVFD.png" group-title="✔️ SERIES 24H",TODO MUNDO ODEIA O CHRIS #4
+http://segundafeira.site:80/159753/159753/1740829.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry CLASSICO" tvg-logo="https://i.imgur.com/hPHeFpb.png" group-title="✔️ DESENHOS 24H",Tom e Jerry CLASSICO
+http://segundafeira.site:80/159753/159753/1727803.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP 100+ BRASIL" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",TOP 100+ BRASIL
+http://segundafeira.site:80/159753/159753/2128777.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP 100+ MUNDO" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",TOP 100+ MUNDO
+http://segundafeira.site:80/159753/159753/2129415.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",TRANSFORMERS
+http://segundafeira.site:80/159753/159753/1727759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transformers" tvg-logo="https://i.imgur.com/l4h6tmo.png" group-title="✔️ DESENHOS 24H",Transformers
+http://segundafeira.site:80/159753/159753/1727257.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAP" tvg-logo="https://i.imgur.com/wdK7Zu5.png" group-title="✔️ MÚSICAS 24H",TRAP
+http://segundafeira.site:80/159753/159753/2129416.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRON" tvg-logo="https://i.imgur.com/Y5UkAh2.png" group-title="✔️ DESENHOS 24H",TRON
+http://segundafeira.site:80/159753/159753/1727786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tropa da Roça" tvg-logo="https://i.imgur.com/oWFShb4.png" group-title="✔️ DESENHOS 24H",Tropa da Roça
+http://segundafeira.site:80/159753/159753/1727770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Três Espiãs demais" tvg-logo="https://i.imgur.com/SCvSnDY.png" group-title="✔️ DESENHOS 24H",Três Espiãs demais
+http://segundafeira.site:80/159753/159753/1727247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica Jovem" tvg-logo="https://i.imgur.com/fMGMEmU.png" group-title="✔️ DESENHOS 24H",Turma da Monica Jovem
+http://segundafeira.site:80/159753/159753/1727282.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV QUACK" tvg-logo="https://i.imgur.com/BiCHLiD.png" group-title="✔️ DESENHOS 24H",TV QUACK
+http://segundafeira.site:80/159753/159753/2165877.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 24 Hrs" tvg-logo="https://imgur.com/zmttg1X.png" group-title="✔️ UFC FIGHT PASS",UFC 24 Hrs
+http://segundafeira.site:80/159753/159753/2165017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://i.imgur.com/2fgg2mR.png" group-title="✔️ SERIES 24H",Um Maluco no Pedaço
+http://segundafeira.site:80/159753/159753/1725648.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma familia da Pesada [TEMP 1 a 5]" tvg-logo="https://i.imgur.com/lOvsk31.png" group-title="✔️ DESENHOS 24H",Uma familia da Pesada [TEMP 1 a 5]
+http://segundafeira.site:80/159753/159753/1727972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma familia da Pesada [TEMP 11 a 15]" tvg-logo="https://i.imgur.com/VcPcCoz.png" group-title="✔️ DESENHOS 24H",Uma familia da Pesada [TEMP 11 a 15]
+http://segundafeira.site:80/159753/159753/1727974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma familia da Pesada [TEMP 16 a 23]" tvg-logo="https://i.imgur.com/D7CLwhD.png" group-title="✔️ DESENHOS 24H",Uma familia da Pesada [TEMP 16 a 23]
+http://segundafeira.site:80/159753/159753/1727975.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma familia da Pesada [TEMP 6 a 10]" tvg-logo="https://i.imgur.com/BFacqLD.png" group-title="✔️ DESENHOS 24H",Uma familia da Pesada [TEMP 6 a 10]
+http://segundafeira.site:80/159753/159753/1727973.ts
+#EXTINF:-1 tvg-id="" tvg-name="URSINHO POOH" tvg-logo="https://i.imgur.com/mPAJgiJ.png" group-title="✔️ DESENHOS 24H",URSINHO POOH
+http://segundafeira.site:80/159753/159753/1728011.ts
+#EXTINF:-1 tvg-id="" tvg-name="URSINHO POOH #2" tvg-logo="https://i.imgur.com/4sMDytC.png" group-title="✔️ DESENHOS 24H",URSINHO POOH #2
+http://segundafeira.site:80/159753/159753/1728012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos" tvg-logo="https://i.imgur.com/wEEYU4z.png" group-title="✔️ DESENHOS 24H",Ursinhos Carinhosos
+http://segundafeira.site:80/159753/159753/1725649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos em Curso" tvg-logo="https://i.imgur.com/t0wQFaV.png" group-title="✔️ DESENHOS 24H",Ursinhos em Curso
+http://segundafeira.site:80/159753/159753/1727787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursos sem curso" tvg-logo="https://i.imgur.com/rTGygxN.png" group-title="✔️ DESENHOS 24H",Ursos sem curso
+http://segundafeira.site:80/159753/159753/1727721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola" tvg-logo="https://i.imgur.com/wTkw8or.png" group-title="✔️ CANAIS 24H",Vai que Cola
+http://segundafeira.site:80/159753/159753/1725650.ts
+#EXTINF:-1 tvg-id="" tvg-name="VALE TUDO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",VALE TUDO
+http://segundafeira.site:80/159753/159753/2210054.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAN DAMME" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",VAN DAMME
+http://segundafeira.site:80/159753/159753/1731476.ts
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e furiosos" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Velozes e furiosos
+http://segundafeira.site:80/159753/159753/2128142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Veterinarios do Texas" tvg-logo="https://i.imgur.com/HyFeLqu.png" group-title="✔️ CANAIS 24H",Veterinarios do Texas
+http://segundafeira.site:80/159753/159753/1416008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vida no Paraiso Bahamas" tvg-logo="https://i.imgur.com/1vzzEl0.png" group-title="✔️ CANAIS 24H",Vida no Paraiso Bahamas
+http://segundafeira.site:80/159753/159753/1416010.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIDA SELVAGEM" tvg-logo="https://i.imgur.com/HyFeLqu.png" group-title="✔️ CANAIS 24H",VIDA SELVAGEM
+http://segundafeira.site:80/159753/159753/1726702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ FILMES 24H",Vingadores
+http://segundafeira.site:80/159753/159753/2168790.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Men - Evolution" tvg-logo="https://i.imgur.com/F4vVPzw.png" group-title="✔️ DESENHOS 24H",X Men - Evolution
+http://segundafeira.site:80/159753/159753/1727256.ts
+#EXTINF:-1 tvg-id="" tvg-name="XICA DA SILVA" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ NOVELAS 24H",XICA DA SILVA
+http://segundafeira.site:80/159753/159753/2212136.ts
+#EXTINF:-1 tvg-id="" tvg-name="YU YU HAKUSHO" tvg-logo="https://i.ibb.co/1Vd7BMc/logos24h.png" group-title="✔️ ANIMES 24H",YU YU HAKUSHO
+http://segundafeira.site:80/159753/159753/2212193.ts
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH" tvg-logo="https://i.imgur.com/86bVfyx.png" group-title="✔️ ANIMES 24H",YU-GI-OH
+http://segundafeira.site:80/159753/159753/1729173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zack e Cody - GEMEOS A BORDO" tvg-logo="https://i.imgur.com/KCg6UDB.png" group-title="✔️ SERIES 24H",Zack e Cody - GEMEOS A BORDO
+http://segundafeira.site:80/159753/159753/1735410.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zatch Bell" tvg-logo="https://i.imgur.com/OnQjCZp.png" group-title="✔️ DESENHOS 24H",Zatch Bell
+http://segundafeira.site:80/159753/159753/1729047.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZE COLMEIA" tvg-logo="https://i.imgur.com/ICqEscL.png" group-title="✔️ DESENHOS 24H",ZE COLMEIA
+http://segundafeira.site:80/159753/159753/2165879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zé Buscapé" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" group-title="✔️ DESENHOS 24H",Zé Buscapé
+http://segundafeira.site:80/159753/159753/1727254.ts
+#EXTINF:-1 tvg-id="" tvg-name="JUJUTSU KAISEN" tvg-logo="https://i.postimg.cc/L8j9BDYP/Gojo-Satoru-Jujutsu-Kaisen-Character-jpg-removebg-preview.png" group-title="✔️ ANIMES 24H",JUJUTSU KAISEN
+http://segundafeira.site:80/159753/159753/2209919.ts
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1948.m3u
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP
