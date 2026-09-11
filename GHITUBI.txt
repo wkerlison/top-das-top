@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="History 4k" tvg-name="The History FHD" tvg-logo="http://logos.imperioapps.top/HISTORY.png" group-title="✅ Canais ✨Documentarios",The History FHD
+http://64.31.23.207:80/897549710171459/0999369741520/296613.ts
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD H265
 http://kplay.red/live/39275939/02859274/1562105.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
