@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="TV TANDINA",Globo SP HD
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1948.m3u
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1947
@@ -487,10 +487,6 @@ http://yugiho.shop:80/Renata14SousaCoruja/Dx826/918025
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/901279
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Redencao " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TV%20Liberal.png" group-title="GLOBO CENTRO OESTE",Globo TV Liberal Redencao 
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/910507
-#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
-rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
-#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="Canais | Brasil",Cabeça da Ponte do Troca
-rtsp://192.168.0.103/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP FHD
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2371
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP HD
@@ -70119,3 +70115,7 @@ http://yugiho.shop:80/movie/Renata14SousaCoruja/Dx826/1266934.mp4
 http://yugiho.shop:80/movie/Renata14SousaCoruja/Dx826/1266928.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deu Preguiça (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUogIOAIeOhDTOnyW4G3Fm8zwDt.jpg" group-title="Animação",Deu Preguiça (2025)
 http://yugiho.shop:80/movie/Renata14SousaCoruja/Dx826/1266926.mp4
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="PRETO TV",Cabeça da Ponte do Troca
+rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlW-Afs3dhXBt3YiVzy-qAjWRROiJjB-g3FQ&s" group-title="PRETO TV",Cabeça da Ponte do Troca
+rtsp://192.168.0.103/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
