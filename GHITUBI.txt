@@ -3,12 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="TV TANDINA",Globo SP HD
-http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1948.m3u
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="SANDRO TANDINA",Globo SP HD
+http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2619
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1947
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP Alternativo HD
-http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2619
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP Alternativo
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2620
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
