@@ -33080,6 +33080,400 @@ http://serv99.xyz:8880/jai2335/s24rz37k/266340
 http://serv99.xyz:8880/jai2335/s24rz37k/266341
 #EXTINF:-1 tvg-id="" tvg-name="QUILOS MORTAIS | 24H+" tvg-logo="" group-title="24H | PROGRAMAS DE TV",QUILOS MORTAIS | 24H+
 http://serv99.xyz:8880/jai2335/s24rz37k/272771
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E01" tvg-logo="http://image.tmdb.org/t/p/w300/qT8wTUrNVLPMVk1gklvKhyzXLIN.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E01
+http://xewte.top:80/series/224418107/47182033/6151849.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E02" tvg-logo="http://image.tmdb.org/t/p/w300/e0LV8Bwwf3gUdFvhG5v2ceI71dj.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E02
+http://xewte.top:80/series/224418107/47182033/6151850.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E03" tvg-logo="http://image.tmdb.org/t/p/w300/leCW3TraVIGZAX6pxajRClzcrfy.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E03
+http://xewte.top:80/series/224418107/47182033/6151851.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E04" tvg-logo="http://image.tmdb.org/t/p/w300/ofsHtNOVdLsx5TY4uLvtntVOfn6.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E04
+http://xewte.top:80/series/224418107/47182033/6151852.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E05" tvg-logo="http://image.tmdb.org/t/p/w300/ggP8Q2KDnmwpbia4GB8WeA7KQwU.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E05
+http://xewte.top:80/series/224418107/47182033/6151853.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E06" tvg-logo="http://image.tmdb.org/t/p/w300/oUlorpIQKhIbvw3kmH6yCXiORMJ.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E06
+http://xewte.top:80/series/224418107/47182033/6151854.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E07" tvg-logo="http://image.tmdb.org/t/p/w300/hVZNVHbZWcjg1RW3qwKGlflC4fL.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E07
+http://xewte.top:80/series/224418107/47182033/6151855.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E08" tvg-logo="http://image.tmdb.org/t/p/w300/zSavkH1PQCfR8U07QDsYNp41dPE.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E08
+http://xewte.top:80/series/224418107/47182033/6151856.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E09" tvg-logo="http://image.tmdb.org/t/p/w300/LJJnp7bIjCKUSKqWEzDjcgiFzl.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E09
+http://xewte.top:80/series/224418107/47182033/6151857.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E10" tvg-logo="http://image.tmdb.org/t/p/w300/wawJapb9JPPR36EojUXYKWZFeGn.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E10
+http://xewte.top:80/series/224418107/47182033/6151858.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E11" tvg-logo="http://image.tmdb.org/t/p/w300/vY4shTuaQbYTTXOGAglPZuLUPoh.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E11
+http://xewte.top:80/series/224418107/47182033/6151859.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E12" tvg-logo="http://image.tmdb.org/t/p/w300/7GMM9ZX2iFp980V2ApTTUodMtse.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E12
+http://xewte.top:80/series/224418107/47182033/6151860.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E13" tvg-logo="http://image.tmdb.org/t/p/w300/59dMmrpdSJWLlnCz2e5U842pVvr.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E13
+http://xewte.top:80/series/224418107/47182033/6151861.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E14" tvg-logo="http://image.tmdb.org/t/p/w300/pP7ktYbXYAKAogcdoT4Jf3WDkwe.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E14
+http://xewte.top:80/series/224418107/47182033/6151862.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E15" tvg-logo="http://image.tmdb.org/t/p/w300/mS3SEwoaArSrtOl8H4gyHSlL61y.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E15
+http://xewte.top:80/series/224418107/47182033/6151863.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E16" tvg-logo="http://image.tmdb.org/t/p/w300/mVMjbXCUFcF0r2pbBBguVwWRCgT.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E16
+http://xewte.top:80/series/224418107/47182033/6151864.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E17" tvg-logo="http://image.tmdb.org/t/p/w300/3vryddpIYoNnA4KTxjc3ELMgamC.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E17
+http://xewte.top:80/series/224418107/47182033/6151865.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E18" tvg-logo="http://image.tmdb.org/t/p/w300/7lBDsXuj4WxuliwjhlFnzuYodiv.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E18
+http://xewte.top:80/series/224418107/47182033/6151866.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E19" tvg-logo="http://image.tmdb.org/t/p/w300/nN8ilDiAcmgLf259BV00qLFFW6j.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E19
+http://xewte.top:80/series/224418107/47182033/6151867.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E20" tvg-logo="http://image.tmdb.org/t/p/w300/mQitsFdgKg65Fy6AZpYaQ91pFTO.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E20
+http://xewte.top:80/series/224418107/47182033/6151868.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E21" tvg-logo="http://image.tmdb.org/t/p/w300/8NHSspoApqcllhgAloNBNGhqBNJ.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E21
+http://xewte.top:80/series/224418107/47182033/6151869.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E22" tvg-logo="http://image.tmdb.org/t/p/w300/l6btHxPskN6sxVXSaP2Ch3aaLe0.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E22
+http://xewte.top:80/series/224418107/47182033/6151870.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E23" tvg-logo="http://image.tmdb.org/t/p/w300/4yka7SZgJhPUSkc5Yy639mv5bvQ.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E23
+http://xewte.top:80/series/224418107/47182033/6151871.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E24" tvg-logo="http://image.tmdb.org/t/p/w300/rsdF7hkKHwelagMkaFijmJeWLyB.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E24
+http://xewte.top:80/series/224418107/47182033/6151872.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E25" tvg-logo="http://image.tmdb.org/t/p/w300/jwIZimmSY8v84xr6Cj51cfKFwY1.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E25
+http://xewte.top:80/series/224418107/47182033/6151873.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E26" tvg-logo="http://image.tmdb.org/t/p/w300/cumrC80REZ0lJW7k99TsC3dRGsn.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E26
+http://xewte.top:80/series/224418107/47182033/6151874.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E27" tvg-logo="http://image.tmdb.org/t/p/w300/4L6FVkcbY1HJ1KqGIKqt3X2DAPP.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E27
+http://xewte.top:80/series/224418107/47182033/6151875.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E28" tvg-logo="http://image.tmdb.org/t/p/w300/ldTPkkUaB6ErmJbTThm1CcujJAE.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E28
+http://xewte.top:80/series/224418107/47182033/6151876.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E29" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/rEcrOlX89cFbQQ0AV77HInfW04O.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E29
+http://xewte.top:80/series/224418107/47182033/6151877.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E30" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/m4vxvHSPCW0Maf5E7sFcEaJhzSF.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E30
+http://xewte.top:80/series/224418107/47182033/6151878.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E31" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/kZ9go08mGuIoGn50QEj4nI6so78.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E31
+http://xewte.top:80/series/224418107/47182033/6151879.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E32" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/mV66ZxjEwsPLvryKwIn8ZFNAN82.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E32
+http://xewte.top:80/series/224418107/47182033/6151880.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E33" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvTndTz31oi3c6m2Cy0rfw95LhQ.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E33
+http://xewte.top:80/series/224418107/47182033/6151881.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E34" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/oNBvi66woCoZgfNk4E6rFqtkgLO.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E34
+http://xewte.top:80/series/224418107/47182033/6151882.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E35" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E35
+http://xewte.top:80/series/224418107/47182033/6151883.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E36" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E36
+http://xewte.top:80/series/224418107/47182033/6151884.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E37" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E37
+http://xewte.top:80/series/224418107/47182033/6151885.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E38" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E38
+http://xewte.top:80/series/224418107/47182033/6151886.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E39" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E39
+http://xewte.top:80/series/224418107/47182033/6151887.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E40" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E40
+http://xewte.top:80/series/224418107/47182033/6151888.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E41" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E41
+http://xewte.top:80/series/224418107/47182033/6151889.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E42" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E42
+http://xewte.top:80/series/224418107/47182033/6151890.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E43" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E43
+http://xewte.top:80/series/224418107/47182033/6151891.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E44" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E44
+http://xewte.top:80/series/224418107/47182033/6151892.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E45" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E45
+http://xewte.top:80/series/224418107/47182033/6151893.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E46" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E46
+http://xewte.top:80/series/224418107/47182033/6151894.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E47" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E47
+http://xewte.top:80/series/224418107/47182033/6151895.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E48" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E48
+http://xewte.top:80/series/224418107/47182033/6151896.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E49" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E49
+http://xewte.top:80/series/224418107/47182033/6151897.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E50" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E50
+http://xewte.top:80/series/224418107/47182033/6151898.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E51" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E51
+http://xewte.top:80/series/224418107/47182033/6151899.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E52" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E52
+http://xewte.top:80/series/224418107/47182033/6151900.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E53" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E53
+http://xewte.top:80/series/224418107/47182033/6151901.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E54" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E54
+http://xewte.top:80/series/224418107/47182033/6151902.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E55" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E55
+http://xewte.top:80/series/224418107/47182033/6151903.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E56" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E56
+http://xewte.top:80/series/224418107/47182033/6151904.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E57" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E57
+http://xewte.top:80/series/224418107/47182033/6151905.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E58" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E58
+http://xewte.top:80/series/224418107/47182033/6151906.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E59" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E59
+http://xewte.top:80/series/224418107/47182033/6151907.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E60" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E60
+http://xewte.top:80/series/224418107/47182033/6151908.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E61" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E61
+http://xewte.top:80/series/224418107/47182033/6151909.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E62" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E62
+http://xewte.top:80/series/224418107/47182033/6151910.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E63" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E63
+http://xewte.top:80/series/224418107/47182033/6151911.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E64" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E64
+http://xewte.top:80/series/224418107/47182033/6151912.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E65" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E65
+http://xewte.top:80/series/224418107/47182033/6151913.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E66" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E66
+http://xewte.top:80/series/224418107/47182033/6151914.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E67" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E67
+http://xewte.top:80/series/224418107/47182033/6151915.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E68" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E68
+http://xewte.top:80/series/224418107/47182033/6151916.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E69" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E69
+http://xewte.top:80/series/224418107/47182033/6151917.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E70" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E70
+http://xewte.top:80/series/224418107/47182033/6151918.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E71" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E71
+http://xewte.top:80/series/224418107/47182033/6151919.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E72" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E72
+http://xewte.top:80/series/224418107/47182033/6151920.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E73" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E73
+http://xewte.top:80/series/224418107/47182033/6151921.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E74" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E74
+http://xewte.top:80/series/224418107/47182033/6151922.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E75" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E75
+http://xewte.top:80/series/224418107/47182033/6151923.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E76" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E76
+http://xewte.top:80/series/224418107/47182033/6151924.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E77" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E77
+http://xewte.top:80/series/224418107/47182033/6151925.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E78" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E78
+http://xewte.top:80/series/224418107/47182033/6151926.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E79" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E79
+http://xewte.top:80/series/224418107/47182033/6151927.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E80" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E80
+http://xewte.top:80/series/224418107/47182033/6151928.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E81" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E81
+http://xewte.top:80/series/224418107/47182033/6151929.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E82" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E82
+http://xewte.top:80/series/224418107/47182033/6151930.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E83" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E83
+http://xewte.top:80/series/224418107/47182033/6151931.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E84" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E84
+http://xewte.top:80/series/224418107/47182033/6151932.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S01E85" tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wDgyy9FXB2Do4qyaQj6ldWYfrd.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S01E85
+http://xewte.top:80/series/224418107/47182033/6151933.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E01" tvg-logo="http://image.tmdb.org/t/p/w300/cieVnNVxtSEgBp8IZI5HK5llaU4.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E01
+http://xewte.top:80/series/224418107/47182033/6151934.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E02" tvg-logo="http://image.tmdb.org/t/p/w300/wxRtseBd5Yd3WSGUtFun0PAnJjw.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E02
+http://xewte.top:80/series/224418107/47182033/6151935.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E03" tvg-logo="http://image.tmdb.org/t/p/w300/9PH0umDh3PH9OKQg6yCAm0bYdWi.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E03
+http://xewte.top:80/series/224418107/47182033/6151936.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E04" tvg-logo="http://image.tmdb.org/t/p/w300/zyrnTVdOQV2IsuZpISENajMTcFn.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E04
+http://xewte.top:80/series/224418107/47182033/6151937.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E05" tvg-logo="http://image.tmdb.org/t/p/w300/eYCkyQ0EmreyHSgwmW17ljZ2jBs.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E05
+http://xewte.top:80/series/224418107/47182033/6151938.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E06" tvg-logo="http://image.tmdb.org/t/p/w300/bPsQE2gwRlVAMY8VQEZphkczK2P.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E06
+http://xewte.top:80/series/224418107/47182033/6151939.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E07" tvg-logo="http://image.tmdb.org/t/p/w300/Ai5eIJ91YrDe9RRmo0ekxVwbocI.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E07
+http://xewte.top:80/series/224418107/47182033/6151940.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E08" tvg-logo="http://image.tmdb.org/t/p/w300/fkQ0pvOGKcdboxdmxBPm27ZFv6.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E08
+http://xewte.top:80/series/224418107/47182033/6151941.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E09" tvg-logo="http://image.tmdb.org/t/p/w300/o3D9VvAD5gCfTY7QfNHqrXTP7sr.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E09
+http://xewte.top:80/series/224418107/47182033/6151942.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E10" tvg-logo="http://image.tmdb.org/t/p/w300/4QZi4I5Iy9NaUuijGHBaD3MSR9O.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E10
+http://xewte.top:80/series/224418107/47182033/6151943.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E11" tvg-logo="http://image.tmdb.org/t/p/w300/6RFDftlCFUOjiEc1CJmUV0CxetB.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E11
+http://xewte.top:80/series/224418107/47182033/6151944.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E12" tvg-logo="http://image.tmdb.org/t/p/w300/kR2J5nZPILrHrZxSAWB2pcr5NGq.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E12
+http://xewte.top:80/series/224418107/47182033/6151945.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E13" tvg-logo="http://image.tmdb.org/t/p/w300/oEi1ds54akc3Hf36ergUea2IEQb.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E13
+http://xewte.top:80/series/224418107/47182033/6151946.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E14" tvg-logo="http://image.tmdb.org/t/p/w300/mriFmOIGNnSwUgpqGm11alrx6qq.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E14
+http://xewte.top:80/series/224418107/47182033/6151947.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E15" tvg-logo="http://image.tmdb.org/t/p/w300/nwCX4w4iCwkGRTi2mEJy4q8scPy.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E15
+http://xewte.top:80/series/224418107/47182033/6151948.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E16" tvg-logo="http://image.tmdb.org/t/p/w300/1cJ7mO2r9avnbLPF0oZ0oM2jWzG.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E16
+http://xewte.top:80/series/224418107/47182033/6151949.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E17" tvg-logo="http://image.tmdb.org/t/p/w300/wfkgYrKeDNkSsKJw6VoyNPR18Z8.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E17
+http://xewte.top:80/series/224418107/47182033/6151950.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E18" tvg-logo="http://image.tmdb.org/t/p/w300/tVrgXCBDknuOdOsp2LCO8MPqUV7.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E18
+http://xewte.top:80/series/224418107/47182033/6151951.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E19" tvg-logo="http://image.tmdb.org/t/p/w300/aB7v9gNWEHRnpnhy81ASiR4R6ta.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E19
+http://xewte.top:80/series/224418107/47182033/6151952.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E20" tvg-logo="http://image.tmdb.org/t/p/w300/mIoqBHvqllRLllQ6RrsBhlawjsN.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E20
+http://xewte.top:80/series/224418107/47182033/6151953.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E21" tvg-logo="http://image.tmdb.org/t/p/w300/5Nh7HduFHnEMFVoeemesK9aGSSk.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E21
+http://xewte.top:80/series/224418107/47182033/6151954.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E22" tvg-logo="http://image.tmdb.org/t/p/w300/kncvYgvIDgxtSP4N0eNL7zqCyxS.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E22
+http://xewte.top:80/series/224418107/47182033/6151955.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E23" tvg-logo="http://image.tmdb.org/t/p/w300/w5ut8J0KLS8LEuRUKc3h5Kb4TXM.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E23
+http://xewte.top:80/series/224418107/47182033/6151956.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E24" tvg-logo="http://image.tmdb.org/t/p/w300/xZrjJIIZwsKqEiRGPQU4jKBuMBC.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E24
+http://xewte.top:80/series/224418107/47182033/6151957.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E25" tvg-logo="http://image.tmdb.org/t/p/w300/s5JC6sT27fbVr9f3fUKDYEad8xG.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E25
+http://xewte.top:80/series/224418107/47182033/6151958.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E26" tvg-logo="http://image.tmdb.org/t/p/w300/mDCFlM1GQ3FzkrRs4vy2dCjjM5i.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E26
+http://xewte.top:80/series/224418107/47182033/6151959.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E27" tvg-logo="http://image.tmdb.org/t/p/w300/6wNE8W67gUUN83hGsV3BFSSWppm.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E27
+http://xewte.top:80/series/224418107/47182033/6151960.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E28" tvg-logo="http://image.tmdb.org/t/p/w300/4wfc7TFdSa44s4sR1dGZYs97ILF.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E28
+http://xewte.top:80/series/224418107/47182033/6151961.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E29" tvg-logo="http://image.tmdb.org/t/p/w300/cbgcKsLDOwHNDjlH6fipbNqD626.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E29
+http://xewte.top:80/series/224418107/47182033/6151962.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E30" tvg-logo="http://image.tmdb.org/t/p/w300/h2iYfWYm3foTsZa6Ea76yqUx0Aj.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E30
+http://xewte.top:80/series/224418107/47182033/6151963.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E31" tvg-logo="http://image.tmdb.org/t/p/w300/ersUdF34E14a5wVG8rQhHzhHlG9.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E31
+http://xewte.top:80/series/224418107/47182033/6151964.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E32" tvg-logo="http://image.tmdb.org/t/p/w300/71mbcKtTeL5O6UbZ1WQ4lwQf3UY.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E32
+http://xewte.top:80/series/224418107/47182033/6151965.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E33" tvg-logo="http://image.tmdb.org/t/p/w300/fhuZ6df3365aUU6tseyYWnvjaMB.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E33
+http://xewte.top:80/series/224418107/47182033/6151966.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E34" tvg-logo="http://image.tmdb.org/t/p/w300/w3CmMfhjeUtxh6Pin0c8aLQISYC.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E34
+http://xewte.top:80/series/224418107/47182033/6151967.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E35" tvg-logo="http://image.tmdb.org/t/p/w300/kQwtJjAKYXQW4PGGWcNPVkQfnKt.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E35
+http://xewte.top:80/series/224418107/47182033/6151968.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E36" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E36
+http://xewte.top:80/series/224418107/47182033/6151969.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E37" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E37
+http://xewte.top:80/series/224418107/47182033/6151970.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E38" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E38
+http://xewte.top:80/series/224418107/47182033/6151971.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E39" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E39
+http://xewte.top:80/series/224418107/47182033/6151972.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E40" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E40
+http://xewte.top:80/series/224418107/47182033/6151973.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E41" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E41
+http://xewte.top:80/series/224418107/47182033/6151974.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E42" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E42
+http://xewte.top:80/series/224418107/47182033/6151975.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E43" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E43
+http://xewte.top:80/series/224418107/47182033/6151976.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E44" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E44
+http://xewte.top:80/series/224418107/47182033/6151977.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E45" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E45
+http://xewte.top:80/series/224418107/47182033/6151978.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E46" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E46
+http://xewte.top:80/series/224418107/47182033/6151979.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E47" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E47
+http://xewte.top:80/series/224418107/47182033/6151980.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E48" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E48
+http://xewte.top:80/series/224418107/47182033/6151981.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E49" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E49
+http://xewte.top:80/series/224418107/47182033/6151982.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E50" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E50
+http://xewte.top:80/series/224418107/47182033/6151983.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E51" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E51
+http://xewte.top:80/series/224418107/47182033/6151984.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E52" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E52
+http://xewte.top:80/series/224418107/47182033/6151985.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E53" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E53
+http://xewte.top:80/series/224418107/47182033/6151986.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E54" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E54
+http://xewte.top:80/series/224418107/47182033/6151987.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E55" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E55
+http://xewte.top:80/series/224418107/47182033/6151988.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E56" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E56
+http://xewte.top:80/series/224418107/47182033/6151989.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E57" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E57
+http://xewte.top:80/series/224418107/47182033/6151990.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E58" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E58
+http://xewte.top:80/series/224418107/47182033/6151991.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E59" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E59
+http://xewte.top:80/series/224418107/47182033/6151992.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E60" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E60
+http://xewte.top:80/series/224418107/47182033/6151993.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E61" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E61
+http://xewte.top:80/series/224418107/47182033/6151994.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E62" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E62
+http://xewte.top:80/series/224418107/47182033/6151995.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E63" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E63
+http://xewte.top:80/series/224418107/47182033/6151996.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E64" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E64
+http://xewte.top:80/series/224418107/47182033/6151997.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E65" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E65
+http://xewte.top:80/series/224418107/47182033/6151998.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E66" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E66
+http://xewte.top:80/series/224418107/47182033/6151999.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E67" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E67
+http://xewte.top:80/series/224418107/47182033/6152000.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E68" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E68
+http://xewte.top:80/series/224418107/47182033/6152001.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E69" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E69
+http://xewte.top:80/series/224418107/47182033/6152002.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E70" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E70
+http://xewte.top:80/series/224418107/47182033/6152003.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E71" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E71
+http://xewte.top:80/series/224418107/47182033/6152004.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E72" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E72
+http://xewte.top:80/series/224418107/47182033/6152005.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E73" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E73
+http://xewte.top:80/series/224418107/47182033/6152006.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E74" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E74
+http://xewte.top:80/series/224418107/47182033/6152007.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E75" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E75
+http://xewte.top:80/series/224418107/47182033/6152008.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E76" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E76
+http://xewte.top:80/series/224418107/47182033/6152009.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E77" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E77
+http://xewte.top:80/series/224418107/47182033/6152010.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E78" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E78
+http://xewte.top:80/series/224418107/47182033/6152011.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E79" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E79
+http://xewte.top:80/series/224418107/47182033/6152012.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E80" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E80
+http://xewte.top:80/series/224418107/47182033/6152013.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E81" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E81
+http://xewte.top:80/series/224418107/47182033/6152014.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E82" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E82
+http://xewte.top:80/series/224418107/47182033/6152015.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E83" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E83
+http://xewte.top:80/series/224418107/47182033/6152016.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E84" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E84
+http://xewte.top:80/series/224418107/47182033/6152017.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E85" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E85
+http://xewte.top:80/series/224418107/47182033/6152018.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E86" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E86
+http://xewte.top:80/series/224418107/47182033/6152019.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E87" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E87
+http://xewte.top:80/series/224418107/47182033/6152020.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E88" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E88
+http://xewte.top:80/series/224418107/47182033/6152021.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E89" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E89
+http://xewte.top:80/series/224418107/47182033/6152022.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E90" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E90
+http://xewte.top:80/series/224418107/47182033/6152023.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E91" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E91
+http://xewte.top:80/series/224418107/47182033/6152024.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E92" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E92
+http://xewte.top:80/series/224418107/47182033/6152025.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E93" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E93
+http://xewte.top:80/series/224418107/47182033/6152026.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E94" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E94
+http://xewte.top:80/series/224418107/47182033/6152027.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E95" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E95
+http://xewte.top:80/series/224418107/47182033/6152028.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E96" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E96
+http://xewte.top:80/series/224418107/47182033/6152029.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E97" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E97
+http://xewte.top:80/series/224418107/47182033/6152030.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E98" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E98
+http://xewte.top:80/series/224418107/47182033/6152031.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E99" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E99
+http://xewte.top:80/series/224418107/47182033/6152032.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E100" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E100
+http://xewte.top:80/series/224418107/47182033/6152033.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E101" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E101
+http://xewte.top:80/series/224418107/47182033/6152034.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E102" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E102
+http://xewte.top:80/series/224418107/47182033/6152035.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E103" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E103
+http://xewte.top:80/series/224418107/47182033/6152036.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E104" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E104
+http://xewte.top:80/series/224418107/47182033/6152037.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E105" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E105
+http://xewte.top:80/series/224418107/47182033/6152038.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E106" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E106
+http://xewte.top:80/series/224418107/47182033/6152039.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E107" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E107
+http://xewte.top:80/series/224418107/47182033/6152040.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E108" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E108
+http://xewte.top:80/series/224418107/47182033/6152041.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E109" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E109
+http://xewte.top:80/series/224418107/47182033/6152042.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E110" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E110
+http://xewte.top:80/series/224418107/47182033/6152043.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E111" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E111
+http://xewte.top:80/series/224418107/47182033/6152044.mp4
+#EXTINF:-1 tvg-name="Um Milagre (2019) S02E112" tvg-logo="http://image.tmdb.org/t/p/w300/yVY1XHMtOSHOXYdG1MNkgt3Obts.jpg" group-title="♣️Series | Turcas",Um Milagre (2019) S02E112
+http://xewte.top:80/series/224418107/47182033/6152045.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Roteiro Assombrado (2023) [Dual]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/e1M0ya2mrLIZMKJUg8ZXDzCAyYB.jpg" group-title="Ficção Científica",O Roteiro Assombrado (2023) [Dual]
 http://yugiho.shop:80/movie/Renata14SousaCoruja/Dx826/1301702.mp4
 EXTINF:-1 tvg-id="" tvg-name="Diamante Negro (2025) [Dual]" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg" group-title="Suspense e Mistério",Diamante Negro (2025) [Dual]
