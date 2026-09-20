@@ -8,9 +8,9 @@ http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2619
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1947
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP Alternativo
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2620
-#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="Preto tv",camera 1
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",camera 1
 rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
-#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="Preto tv",camera 2
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",camera 2
 rtsp://192.168.0.103/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1941
