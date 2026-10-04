@@ -11,7 +11,7 @@ http://yugiho.shop:80/Renata14SousaCoruja/Dx826/2620
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",camera 1
 rtsp://192.168.0.101/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",camera 2
-rtsp://192.168.0.102/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
+rtsp://192.168.0.100/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/1941
 #EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ H265" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ H265
